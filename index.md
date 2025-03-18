@@ -65,6 +65,7 @@ This portfolio highlights select projects where I applied analytical, developmen
   *C++ implementation of MST, Fast Insertion Heuristic, and Optimal Branch & Bound solutions for TSP. Includes command-line interface and automated test scripts.*  
   **Skills:** C++, Algorithm Design, MST, Branch & Bound, Heuristics, Bash Scripting
 
+---
 
 ## Connect with Me
 

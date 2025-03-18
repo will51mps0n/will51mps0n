@@ -5,6 +5,12 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      css: "/assets/css/custom.css"
+      
 # Simple Navbar
 navigation:
   - title: "Adam Simpson"
@@ -13,6 +19,10 @@ navigation:
     url: "/about"
   - title: "Projects"
     url: "/projects/"
+
+show_downloads: false
+github:
+  is_project_page: false
 
 author: "Adam Simpson"
 url: "https://will51mps0n.github.io/will51mps0n"
