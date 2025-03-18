@@ -60,3 +60,4 @@ The **Maze Solver AI** demonstrates how different search strategies balance effi
 
 ---
 
+[← Back to Home](../index.html)

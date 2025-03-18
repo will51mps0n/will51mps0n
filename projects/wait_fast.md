@@ -5,7 +5,7 @@ title: WaitFast Application
 
 [← Back to Home](../index.html)
 
-# WaitFast: Real-Time Wait Time Application  
+# WaitFast: Dynamically Updated Wait Time Application  
 *January 2025 – Present*
 
 ---
@@ -60,3 +60,5 @@ Users often struggle to decide where to eat or drink due to long wait times and 
 
 ## Access:
 - The project is currently in beta testing, and will be deployed to the appstore soon. Message me if youd like to see the test or access to the repo
+
+[← Back to Home](../index.html)
