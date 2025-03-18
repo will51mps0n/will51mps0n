@@ -84,3 +84,25 @@ body {
     text-decoration: underline;
   }
   
+  /* Parallax Section */
+.parallax {
+    background-image: url('https://images.unsplash.com/photo-1549921296-a5e98d1e5f7f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80'); /* You can replace with any image */
+    height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  /* Optional overlay to darken */
+  .parallax::after {
+    content: "";
+    background: rgba(0, 39, 76, 0.6); /* U-M Blue Overlay */
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  

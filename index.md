@@ -12,6 +12,12 @@ title: Home
 I'm a proud Wolverine! 🟡🔵  
 This site showcases my data science projects.
 
+---
+
+<div class="parallax"></div>
+
+---
+
 ## Featured Projects:
 - [Power Outage Analysis](./projects/power-outage.html)
 - [Project 2](./projects/project-2.html)
