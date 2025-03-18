@@ -6,17 +6,12 @@ title: Adam Simpson
 
 <p style="text-align: center; font-weight: bold;">
   <span style="
-      color: #00274C; 
-      font-size: 25px; 
-      text-shadow: 
-        -1px -1px 0 #FFCB05, 
-        1px -1px 0 #FFCB05, 
-        -1px 1px 0 #FFCB05, 
-        1px 1px 0 #FFCB05;">B.S.E. in Electrical Engineering & Computer Science</span><br>
+      color:rgb(0, 0, 0); 
+      font-size: 28px;">B.S.E. in Electrical Engineering & Computer Science</span><br>
   
   <span style="
       color: #00274C; 
-      font-size: 23px; 
+      font-size: 27px; 
       text-shadow: 
         -1px -1px 0 #FFCB05, 
         1px -1px 0 #FFCB05, 
@@ -82,8 +77,8 @@ This portfolio highlights select projects where I applied analytical, developmen
 
 ---
 
-<p align="center">
-  <strong style="font-size: 30px; color:rgb(88, 183, 106);">Connect with Me<><br>
+<p align="center" style="font-family: 'Lato', sans-serif;">
+  <span style="font-size: 30px; color: #1ABC9C; font-weight: normal;">Connect with Me</span><br>
   <span style="font-size: 20px;">Feel free to explore my work and reach out!</span><br><br>
   <a href="https://github.com/will51mps0n" style="font-size: 20px;">GitHub</a> •
   <a href="https://www.linkedin.com/in/adam-simpson-b6a3201a7/" style="font-size: 20px;">LinkedIn</a> •
