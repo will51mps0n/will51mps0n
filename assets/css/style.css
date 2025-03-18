@@ -35,15 +35,29 @@ body {
     bottom: 0;
   }
   
-  button {
-    background-color: #FFCB05;
+/* Button Styling */
+button, .btn {
+    background-color: #FFCB05;  /* Maize */
+    color: #00274C;             /* Blue */
+    padding: 0.75rem 1.5rem;
     border: none;
-    padding: 0.5rem 1rem;
     border-radius: 8px;
     font-size: 1rem;
+    font-weight: bold;
     cursor: pointer;
-    color: #00274C;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    display: inline-block;
   }
+  
+  /* Hover effect */
+  button:hover, .btn:hover {
+    background-color: #00274C;  /* Flip colors on hover */
+    color: #FFCB05;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    transform: translateY(-2px);
+  }
+  
   
   .card {
     background: #FFF;
@@ -51,5 +65,22 @@ body {
     padding: 1rem;
     margin-bottom: 1rem;
     border-radius: 10px;
+  }
+  
+  /* Fade In Animation */
+body {
+    opacity: 0;
+    animation: fadeIn 1s ease forwards;
+  }
+  
+  @keyframes fadeIn {
+    to {
+      opacity: 1;
+    }
+  }
+  
+  /* Optional: Links hover underline */
+  a:hover {
+    text-decoration: underline;
   }
   
