@@ -3,10 +3,11 @@ layout: default
 title: Adam Simpson
 ---
 
-# Adam Simpson
 
-## B.S.E. in Electrical Engineering & Computer Science  
-### University of Michigan, Class of 2025
+<p style="text-align: center;">
+  <strong>B.S.E. in Electrical Engineering & Computer Science</strong><br>
+  University of Michigan, Class of 2025
+</p>
 
 ---
 
