@@ -1,8 +1,17 @@
+---
+layout: default
+title: Power Outage Analysis
+---
+
+[← Back to Home](../index.html)
+
 # Power Outage Analysis
 ---
 Dec 7, 2024
 
 By Adam Simpson
+
+---
 
 ## Introduction
 
@@ -291,3 +300,5 @@ The final model is decent at predicting costs.
 <iframe src="assets/model_performance.html" width="800" height="600" frameborder="0"></iframe>
 
 ---
+
+

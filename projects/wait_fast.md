@@ -3,7 +3,9 @@ layout: default
 title: WaitFast Application
 ---
 
-# 📱 WaitFast: Real-Time Wait Time Application  
+[← Back to Home](../index.html)
+
+# WaitFast: Real-Time Wait Time Application  
 *January 2025 – Present*
 
 ---
@@ -54,4 +56,7 @@ Users often struggle to decide where to eat or drink due to long wait times and 
 ## Tech Stack:
 - **Frontend:** Swift (iOS)
 - **APIs:** Google Places API, Apple Maps API
-- **Backend:** SQL, JSON for dynamic data updates
+- **Backend:** SQL, JSON for dynamic data updates, Python 
+
+## Access:
+- The project is currently in beta testing, and will be deployed to the appstore soon. Message me if youd like to see the test or access to the repo
