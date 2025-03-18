@@ -1,5 +1,5 @@
 title: "Adam Simpson Portfolio"
-description: "Data Science & Analytics Projects by Adam Simpson"
+description: "Data Science & SWE Projects"
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
@@ -7,7 +7,7 @@ plugins:
 
 # Simple Navbar
 navigation:
-  - title: "Home"
+  - title: "Adam Simpson"
     url: "/"
   - title: "About"
     url: "/about"
