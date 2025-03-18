@@ -42,7 +42,7 @@ This portfolio highlights select projects where I applied analytical, developmen
 ---
 
 ### Mobile Application and Web Development
-- [**Wait Fast **](./projects/wait_fast.html)  
+- [**Wait Fast**](./projects/wait_fast.html)  
   *Full-stack mobile app designed to optimize queue management in real-time, integrating a user-friendly front-end and responsive backend.*  
   **Skills:** Python, SQL, Mobile UI/UX, Backend API Development, Full-Stack Engineering
 
