@@ -4,9 +4,9 @@ title: Adam Simpson
 ---
 
 
-<p style="text-align: center; font-size: 25px; font-weight: bold;">
-  B.S.E. in Electrical Engineering & Computer Science<br>
-  University of Michigan, Class of 2025
+<p style="text-align: center; font-weight: bold;">
+  <span style="color: #00274C; font-size: 25px;">B.S.E. in Electrical Engineering & Computer Science</span><br>
+  <span style="color: #FFCB05; font-size: 23px;">University of Michigan, Class of 2025</span>
 </p>
 
 ---
