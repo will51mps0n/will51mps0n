@@ -5,20 +5,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
-# Optional: Custom Logo (put logo.png in assets/images/)
-# logo: /assets/images/logo.png
-
-# Optional: Social links
-social_links:
-  - name: GitHub
-    url: https://github.com/will51mps0n
-  - name: LinkedIn
-    url: https://linkedin.com/in/your-linkedin
-
-# Custom colors (Cayman supports these!)
-color_scheme: "dark"
-
-# Navbar Links
+# Simple Navbar
 navigation:
   - title: "Home"
     url: "/"
@@ -27,6 +14,5 @@ navigation:
   - title: "Projects"
     url: "/projects/"
 
-# SEO tags
 author: "Adam Simpson"
 url: "https://will51mps0n.github.io/will51mps0n"
