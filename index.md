@@ -70,5 +70,12 @@ This portfolio highlights select projects where I applied analytical, developmen
 ## Connect with Me
 
 Feel free to explore my work and reach out!  
-[GitHub](https://github.com/will51mps0n) • [LinkedIn](https://www.linkedin.com/in/adam-simpson-b6a3201a7/) • [Email](adwisi@umich.edu)
+
+<p align="center">
+  <strong>Connect with Me</strong><br>
+  Feel free to explore my work and reach out!<br>
+  <a href="https://github.com/will51mps0n">GitHub</a> •
+  <a href="https://www.linkedin.com/in/adam-simpson-b6a3201a7/">LinkedIn</a> •
+  <a href="adwisi@umich.edu">Email</a>
+</p>
 
