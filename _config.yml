@@ -1,0 +1,14 @@
+title: "Adam Simpson Projects"
+description: "Portfolio of Data Science & Analysis Projects"
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Projects"
+    url: "/projects/"
