@@ -34,14 +34,14 @@ This portfolio highlights select projects where I applied analytical, developmen
 ### Data Science, Artificial Intelligence, and Machine Learning
 
 - [**Power Outage Analysis - Python & ML**](./projects/power-outage.html)  
-  *Predicting the financial impact of major U.S. power outages (2000–2016) using data preprocessing, feature engineering, and Random Forest regression for prediction.*  
+  *Predicting the financial impact of major U.S. power outages (2000–2016) using data preprocessing, feature engineering, and Random Forest regression for prediction. The analysis outlines my process and findings on the dataset.*  
   **Skills:** Pandas, Numpy, Data Cleaning, EDA, Feature Engineering, Regression Modeling, Hyperparameter Tuning
 
 - [**AlphaZero Othello - Python & AI**](./projects/alz.html)  
   *Implemented an AlphaZero-based agent for Othello using Monte Carlo Tree Search (MCTS) combined with a deep convolutional neural network. Designed all MCTS phases—selection, expansion, simulation, backpropagation—and integrated neural network predictions to improve gameplay through self-play.*  
   **Skills:** Python, PyTorch, Reinforcement Learning, MCTS, Neural Networks, Unsupervised Learning
   
-- [**CIFAR-10 Image Classifier Python & AI**](./projects/img.html)  
+- [**CIFAR-10 Image Classifier - Python & AI**](./projects/img.html)  
   *Developed and trained both Fully-Connected and Convolutional Neural Networks for CIFAR-10 image classification. Conducted hyperparameter tuning through grid search and visualized model predictions, ensuring deterministic behavior across runs.*  
   **Skills:** PyTorch, CNNs, Neural Networks, Hyperparameter Tuning
 
@@ -67,11 +67,11 @@ This portfolio highlights select projects where I applied analytical, developmen
   *C implementation of an LC-2K assembler and a 5-stage pipelined processor simulator. The assembler translates assembly code to machine code, handling label resolution, symbol management, and error checking.*  
   **Skills:** Systems Programming, Assembly Language, Pipeline Simulation
 
-- [**LC-2K Cache Simulator**](./projects/cache_simulator.html)  
+- [**LC-2K Cache Simulator**](./projects/cache.html)  
   *Implemented a configurable cache simulator in C, modeling set-associative caches with adjustable block sizes, set counts, and associativity levels. Integrated a Least Recently Used (LRU) replacement policy, write-back behavior, and detailed logging of cache hits, misses, memory accesses, and evictions.*  
   **Skills:** Systems Programming, Cache Simulation, Memory Management, Bit Manipulation
 
-- [**Traveling Salesman Problem Solver - C++**](./projects/project-tsp.html)  
+- [**Traveling Salesman Problem Solver - C++**](./projects/tsp.html)  
   *C++ implementation of MST, Fast Insertion Heuristic, and Optimal Branch & Bound solutions for TSP. Includes command-line interface and automated test scripts.*  
   **Skills:** Algorithm Design, MST, Branch & Bound, Heuristics, Bash Scripting
 
