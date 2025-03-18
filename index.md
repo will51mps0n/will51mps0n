@@ -13,13 +13,13 @@ title: Adam Simpson
 
 ## About Me
 
-I'm a dedicated computer science student at the University of Michigan with a strong focus on **Data Science, Machine Learning, and Software Engineering**. My interests span across developing intelligent systems, analyzing data to drive insights, and building full-stack applications.  
+I'm a computer science student at the University of Michigan with a strong focus on **Data Science, Machine Learning, and Software Engineering**. My interests span across developing intelligent systems, analyzing data to drive insights, and building full-stack applications.  
 
-This portfolio highlights select projects where I applied analytical, development, and engineering skills to solve meaningful problems. Each project includes a detailed explanation of my objectives, approach, and key takeaways. Direct links to project repositories are available on each individual project page.
+This portfolio highlights select projects where I applied analytical, development, and engineering skills to solve meaningful problems, or ones that I just enjoyed. Each project includes a detailed explanation of my objectives, approach, and key takeaways. Direct links to project repositories are available on each individual project page.
 
 ---
 
-## Some of my Projects
+## My Projects
 
 ### Data Science, Artificial Intelligence, and Machine Learning
 
