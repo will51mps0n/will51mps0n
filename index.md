@@ -4,7 +4,7 @@ title: Adam Simpson
 ---
 
 
-<p style="text-align: center; font-size: 40px; font-weight: bold;">
+<p style="text-align: center; font-size: 25px; font-weight: bold;">
   B.S.E. in Electrical Engineering & Computer Science<br>
   University of Michigan, Class of 2025
 </p>
@@ -68,11 +68,11 @@ This portfolio highlights select projects where I applied analytical, developmen
 ---
 
 <p align="center">
-  <strong style="font-size: 50px; color: var(--color-text-link);">Connect with Me</strong><br>
-  <span style="font-size: 35px;">Feel free to explore my work and reach out!</span><br><br>
-  <a href="https://github.com/will51mps0n" style="font-size: 35px;">GitHub</a> •
+  <strong style="font-size: 40px; color: var(--color-text-link);">Connect with Me</strong><br>
+  <span style="font-size: 25px;">Feel free to explore my work and reach out!</span><br><br>
+  <a href="https://github.com/will51mps0n" style="font-size: 25px;">GitHub</a> •
   <a href="https://www.linkedin.com/in/adam-simpson-b6a3201a7/" style="font-size: 20px;">LinkedIn</a> •
-  <a href="mailto:adwisi@umich.edu" style="font-size: 35px;">Email</a>
+  <a href="mailto:adwisi@umich.edu" style="font-size: 25px;">Email</a>
 </p>
 
 
