@@ -83,15 +83,11 @@ This project presents a comprehensive approach to **Stock Price Analysis and Pre
 ---
 
 ## Technologies
-- Python
-- pandas
-- NumPy
 - requests
 - BeautifulSoup
 - ta (Technical Analysis Library)
 - scikit-learn
-- TensorFlow/Keras
-- matplotlib
+- TensorFlow
 
 ---
 

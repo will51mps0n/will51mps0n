@@ -8,7 +8,7 @@ github_url: https://github.com/will51mps0n/tsp
 [← Back to Home](../index.html)
 
 # AlphaZero-Based Othello AI  
-*December 2024*
+[View Code on GitHub](https://github.com/will51mps0n/Othello_AG0/blob/main/MCST.py)
 
 ---
 
@@ -70,11 +70,6 @@ Key highlights of the implementation include:
 - pytorch
 - CNNs
 - Deep Reinforcement Learning
-
----
-
-## Repository
-[View Code on GitHub]()
 
 ---
 

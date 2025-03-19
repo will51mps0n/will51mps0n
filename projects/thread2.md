@@ -66,8 +66,6 @@ This project implements a custom **C++ Thread Library** that simulates cooperati
 - Low-level Systems Programming
 - `ucontext` API
 - Smart Pointers & RAII
-- Manual Memory Management
-- Exception Handling
 
 ---
 

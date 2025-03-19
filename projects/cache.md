@@ -93,7 +93,6 @@ Implements the LRU strategy:
 ---
 
 ## Technologies
-
 - C
 - Bit Manipulation
 - Cache and Memory Management
