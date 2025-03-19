@@ -21,6 +21,8 @@ title: Adam Simpson
 
 ---
 
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
 <div style="text-align: center; margin-top: 30px; margin-bottom: 20px;">
   <lottie-player 
     src="{{ site.baseurl }}/assets/animations/my_animation.lottie"  
@@ -31,6 +33,7 @@ title: Adam Simpson
     autoplay>
   </lottie-player>
 </div>
+
 
 ---
 ## About Me
