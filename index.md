@@ -21,6 +21,18 @@ title: Adam Simpson
 
 ---
 
+<div style="text-align: center; margin-top: 30px; margin-bottom: 20px;">
+  <lottie-player 
+    src="{{ site.baseurl }}/assets/animations/my_animation.lottie"  
+    background="transparent"  
+    speed="1"  
+    style="width: 300px; height: 300px;"  
+    loop  
+    autoplay>
+  </lottie-player>
+</div>
+
+---
 ## About Me
 
 I'm a computer science student at the University of Michigan with a strong focus on **Data Science, Machine Learning, and Software Engineering**. My interests in development include intelligent systems and autonomous software, analyzing data to drive insights, and building full-stack applications.  
