@@ -26,7 +26,6 @@ This portfolio highlights select projects where I applied analytical, developmen
 
 ## My Projects
 
----
 
 ### Data Science, Artificial Intelligence, and Machine Learning
 
