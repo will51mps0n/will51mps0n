@@ -7,7 +7,7 @@ github_url: https://github.com/will51mps0n/Cache
 [← Back to Home](../index.html)
 
 # LC-2K Cache Simulator  
-*March 2025*
+[View Code on GitHub](https://github.com/will51mps0n/Cache)
 
 ---
 
