@@ -43,6 +43,7 @@ Key highlights of the implementation include:
   - Focuses on efficient exploration, data efficiency, and deep reinforcement learning strategies.
 
 - **Detailed MCTS Components:**
+
   | Phase           | Description                                                                 |
   |----------------|-----------------------------------------------------------------------------|
   | **Selection**    | Traverses the game tree, selecting actions based on UCB formula.            |
@@ -73,7 +74,6 @@ Key highlights of the implementation include:
 ---
 
 ## Repository
-ADD LATER
 [View Code on GitHub]()
 
 ---

@@ -30,6 +30,7 @@ The AI agent simulates future moves using a recursive minimax approach:
 - Uses Alpha-Beta pruning to cut unnecessary branches, improving performance.
 
 ### Example Tests:
+
 | Test # | Human Moves (Columns) | AI Move to Win | Winning Combo |
 |-------|----------------------|--------------|----------------------------|
 | 0     | 4, 3, 4, 2            | 4            | Positive diagonal (cols 1–4) |

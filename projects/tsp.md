@@ -46,6 +46,7 @@ The project is focused on both performance and accuracy, emphasizing efficient g
 ## How It Works
 
 ### Modes Breakdown:
+
 | Mode      | Algorithm Implemented | Approach |
 |----------|----------------------|---------|
 | **MST**      | Prim’s Algorithm | Priority Queue & Edge Weights |

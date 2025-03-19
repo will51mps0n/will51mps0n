@@ -28,7 +28,7 @@ The project focuses on both the algorithmic implementation and visualization of 
   - Breadth-First Search (BFS)
   - Depth-First Search (DFS)
   - Uniform Cost Search (UCS)
-  - A\* Search (with dynamic heuristics based on Euclidean distance)
+  - A\* Search 
 
 - **Visualization:**  
   Used **Matplotlib** to visualize:
@@ -52,7 +52,6 @@ The **Maze Solver AI** demonstrates how different search strategies balance effi
 - Python
 - NumPy
 - Matplotlib
-- Data Structures: Queue, Priority Queue, LIFO Queue
 
 ---
 

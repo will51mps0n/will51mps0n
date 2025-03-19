@@ -51,6 +51,7 @@ This project implements a custom **C++ Thread Library** that simulates cooperati
 ---
 
 ### Key Components:
+
 | Component            | Functionality                                                                                      |
 |---------------------|---------------------------------------------------------------------------------------------------|
 | **cpu class**        | Bootstraps CPUs, sets up interrupt handlers, manages thread execution, and handles CPU suspension. |
