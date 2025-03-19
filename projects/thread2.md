@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Custom C++ Thread Library
+github_url: https://github.com/eecs482/adwisi.ecomini.skis.2
+
 ---
 
 [← Back to Home](../index.html)

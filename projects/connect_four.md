@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Connect Four AI
+github_url: https://github.com/will51mps0n/connect_four_ai
 ---
 
 [← Back to Home](../index.html)

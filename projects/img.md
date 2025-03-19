@@ -1,6 +1,7 @@
 ---
 layout: default
 title: CIFAR-10 Image Classification
+github_url: https://github.com/will51mps0n/Image_CNN/tree/main
 ---
 
 [← Back to Home](../index.html)

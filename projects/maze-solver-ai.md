@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Maze Solver AI
+github_url: https://github.com/will51mps0n/maze_solver_ai
 ---
 
 [← Back to Home](../index.html)

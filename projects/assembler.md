@@ -1,6 +1,7 @@
 ---
 layout: default
 title: LC-2K Pipeline Simulator & Assembler
+github_url: https://github.com/will51mps0n/simulator
 ---
 
 [← Back to Home](../index.html)

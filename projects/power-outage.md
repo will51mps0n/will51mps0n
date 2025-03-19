@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Power Outage Analysis
+github_url: https://github.com/will51mps0n/power_outages_analysis/blob/main/adam_poweroutages_analysis.ipynb
 ---
 
 [← Back to Home](../index.html)

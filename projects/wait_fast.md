@@ -1,6 +1,7 @@
 ---
 layout: default
 title: WaitFast Application
+github_url: https://github.com/TiernanJesrani/WaitFast
 ---
 
 [← Back to Home](../index.html)
