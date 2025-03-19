@@ -8,6 +8,9 @@ title: Traveling Salesman Solver
 # Traveling Salesman Solver: MST, FASTTSP, and OPTTSP Algorithms  
 *April 2023*
 
+## Repository
+[View Code on GitHub](https://github.com/will51mps0n/tsp_solver)
+
 ---
 
 ## Overview
