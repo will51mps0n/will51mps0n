@@ -16,7 +16,7 @@ navigation:
 
 show_downloads: false
 github:
-  is_project_page: true
+  is_project_page: false
 
 author: "Adam Simpson"
 url: "https://will51mps0n.github.io/will51mps0n"
