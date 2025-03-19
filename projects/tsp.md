@@ -1,15 +1,14 @@
 ---
 layout: default
 title: Traveling Salesman Solver
+github_url: https://github.com/will51mps0n/tsp
+
 ---
 
 [← Back to Home](../index.html)
 
 # Traveling Salesman Solver: MST, FASTTSP, and OPTTSP Algorithms  
 *April 2023*
-
-## Repository
-[View Code on GitHub](https://github.com/will51mps0n/tsp_solver)
 
 ---
 
