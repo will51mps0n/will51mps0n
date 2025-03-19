@@ -37,7 +37,7 @@ Users often struggle to decide where to eat or drink due to long wait times and 
 
 ---
 
-## Product Mockup & Persona Insights
+## Persona Insights & Concept
 
 <div style="text-align: center;">
   <!-- Sliding bar using basic HTML -->
