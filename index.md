@@ -34,6 +34,10 @@ This portfolio highlights select projects where I applied analytical, developmen
   *Predicting the financial impact of major U.S. power outages (2000–2016) using data preprocessing, feature engineering, and Random Forest regression for prediction. The analysis outlines my process and findings on the dataset.*  
   **Skills:** Pandas, Numpy, Data Cleaning, EDA, Feature Engineering, Regression Modeling, Hyperparameter Tuning
 
+- [**Stock Price Analysis and Prediction - Python**](./projects/stock_price_analysis.html)  
+  *Developed a comprehensive pipeline for stock price analysis, incorporating data retrieval from the Financial Modeling Prep API, computation of technical indicators, and implementation of machine learning models including Linear Regression, Random Forest, and LSTM networks for predictive analytics.*  
+  **Skills:** Data Retrieval, Technical Analysis, Machine Learning, Time Series Forecasting, API Integration
+
 - [**AlphaZero Othello - Python & AI**](./projects/alz.html)  
   *Implemented an AlphaZero-based agent for Othello using Monte Carlo Tree Search (MCTS) combined with a deep convolutional neural network. Designed all MCTS phases—selection, expansion, simulation, backpropagation—and integrated neural network predictions to improve gameplay through self-play.*  
   **Skills:** Python, PyTorch, Reinforcement Learning, MCTS, Neural Networks, Unsupervised Learning
@@ -60,7 +64,7 @@ This portfolio highlights select projects where I applied analytical, developmen
   *Designed a cooperative thread library in C++, implementing context switching, mutexes, and condition variables using low-level `ucontext` primitives. Ensured FIFO scheduling, efficient CPU management, and robust interrupt handling.*  
   **Skills:** Operating Systems Programming, Thread Scheduling, Context Switching, Mutexes & Monitors, RAII
 
-- [**LC-2K Assembler and Pipeline Simulator - C**](./projects/assembler.html)  
+- [**LC-2K Assembler and Pipeline Simulator - C and Assembly**](./projects/assembler.html)  
   *C implementation of an LC-2K assembler and a 5-stage pipelined processor simulator. The assembler translates assembly code to machine code, handling label resolution, symbol management, and error checking.*  
   **Skills:** Systems Programming, Assembly Language, Pipeline Simulation
 
