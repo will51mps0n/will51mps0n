@@ -10,8 +10,13 @@ title: Adam Simpson
       font-size: 28px;">B.S.E. in Electrical Engineering & Computer Science</span><br>
   
   <span style="
-      color: #00274C; 
-      font-size: 25px; ">University of Michigan, Class of 2025</span>
+      color:rgb(12, 51, 86); 
+      font-size: 26px; 
+      text-shadow: 
+        -1px -1px 0 #FFCB05, 
+        1px -1px 0 #FFCB05, 
+        -1px 1px 0 #FFCB05, 
+        1px 1px 0 #FFCB05;">University of Michigan, Class of 2025</span>
 </p>
 
 ---
