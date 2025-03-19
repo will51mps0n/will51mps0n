@@ -8,7 +8,7 @@ github_url: https://github.com/will51mps0n/stock_price_analysis
 [← Back to Home](../index.html)
 
 # Stock Price Analysis and Prediction
-[View Code on GitHub](https://github.com/will51mps0n/stock_price_analysis)
+[View Code on GitHub](https://github.com/will51mps0n/stock_analysis)
 
 ---
 
