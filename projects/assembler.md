@@ -85,8 +85,7 @@ The project is divided into two components:
 ---
 
 ## Repository
-ADD LATER
-[View Code on GitHub]()
+[View Code on GitHub](https://github.com/will51mps0n/simulator)
 
 ---
 

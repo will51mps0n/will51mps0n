@@ -38,7 +38,7 @@ This portfolio highlights select projects where I applied analytical, developmen
   *Predicting the financial impact of major U.S. power outages (2000–2016) using data preprocessing, feature engineering, and Random Forest regression for prediction. The analysis outlines my process and findings on the dataset.*  
   **Skills:** Pandas, Numpy, Data Cleaning, EDA, Feature Engineering, Regression Modeling, Hyperparameter Tuning
 
-- [**Stock Price Analysis and Prediction - Python**](./projects/stock_price_analysis.html)  
+- [**Stock Price Analysis and Prediction - Python**](./projects/stock.html)  
   *Developed a comprehensive pipeline for stock price analysis, incorporating data retrieval from the Financial Modeling Prep API, computation of technical indicators, and implementation of machine learning models including Linear Regression, Random Forest, and LSTM networks for predictive analytics.*  
   **Skills:** Data Retrieval, Technical Analysis, Machine Learning, Time Series Forecasting, API Integration
 

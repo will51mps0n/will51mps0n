@@ -44,7 +44,7 @@ The AI agent simulates future moves using a recursive minimax approach:
 ---
 
 ## Repository
-[View Code on GitHub](https://github.com/will51mps0n/maze_solver_ai)
+[View Code on GitHub](https://github.com/will51mps0n/connect_four_ai)
 
 ---
 

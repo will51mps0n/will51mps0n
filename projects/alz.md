@@ -1,6 +1,8 @@
 ---
 layout: default
 title: AlphaZero-Based Othello AI
+github_url: https://github.com/will51mps0n/tsp
+
 ---
 
 [← Back to Home](../index.html)
@@ -63,15 +65,10 @@ Key highlights of the implementation include:
 
 ## Technologies
 
-- **Python**
-- **PyTorch**
-- **Monte Carlo Tree Search (MCTS)**
-- **Convolutional Neural Networks (CNN)**
-- **Deep Reinforcement Learning**
-- **Self-Play Training Pipeline**
-- **Google Colab Integration**
-- **Othello Game Engine**
-- **Logging & Debugging Tools**
+- python
+- pytorch
+- CNNs
+- Deep Reinforcement Learning
 
 ---
 
