@@ -7,7 +7,7 @@ title: Adam Simpson
 <p style="text-align: center; font-weight: bold;">
   <span style="
       color:rgb(0, 0, 0); 
-      font-size: 28px;">B.S.E. in Electrical Engineering & Computer Science</span><br>
+      font-size: 28px;">B.S. in Electrical Engineering & Computer Science</span><br>
   
   <span style="
       color:rgb(12, 51, 86); 
