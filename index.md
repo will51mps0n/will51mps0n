@@ -19,7 +19,6 @@ title: Adam Simpson
         1px 1px 0 #FFCB05;">University of Michigan, Class of 2025</span>
 </p>
 
----
 
 <!-- Include Lottie Player -->
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
@@ -43,8 +42,6 @@ title: Adam Simpson
   </lottie-player>
 </div>
 
-
----
 ## About Me
 
 I'm a computer science student at the University of Michigan with a strong focus on **Data Science, Machine Learning, and Software Engineering**. My interests in development include intelligent systems and autonomous software, analyzing data to drive insights, and building full-stack applications.  
@@ -58,7 +55,8 @@ This portfolio highlights select projects where I applied analytical, developmen
 
 ### Data Science, Artificial Intelligence, and Machine Learning
 
-- [**Power Outage Analysis - Python & ML**](./projects/power-outage.html) Jan 2025
+- [**Power Outage Analysis - Python & ML**](./projects/power-outage.html) 
+  Jan 2025
   *Predicting the financial impact of major U.S. power outages (2000–2016) using data preprocessing, feature engineering, and Random Forest regression for prediction. The analysis outlines my process and findings on the dataset.*  
   **Skills:** Pandas, Numpy, Data Cleaning, EDA, Feature Engineering, Regression Modeling, Hyperparameter Tuning
 
