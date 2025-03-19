@@ -20,29 +20,6 @@ title: Adam Simpson
 </p>
 
 
-<!-- Include Lottie Player -->
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-
-{% raw %}
-<!-- Fullscreen Centered Lottie Animation -->
-<div style="
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  margin: 0;
-">
-  <lottie-player 
-    src="{{ site.baseurl }}/assets/animations/hello-world.json"
-    background="transparent"
-    speed="1"
-    style="width: 500px; height: 500px;"
-    loop
-    autoplay>
-  </lottie-player>
-</div>
-{% endraw %}
-
 ## About Me
 
 I'm a computer science student at the University of Michigan with a strong focus on **Data Science, Machine Learning, and Software Engineering**. My interests in development include intelligent systems and autonomous software, analyzing data to drive insights, and building full-stack applications.  
