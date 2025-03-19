@@ -8,7 +8,8 @@ github_url: https://github.com/will51mps0n/tsp
 [← Back to Home](../index.html)
 
 # Traveling Salesman Solver: MST, FASTTSP, and OPTTSP Algorithms  
-*April 2023*
+[View Code on GitHub](https://github.com/will51mps0n/tsp_solver)
+
 
 ---
 
@@ -58,11 +59,6 @@ The project is focused on both performance and accuracy, emphasizing efficient g
 - Command-line Interface
 - Dynamic Memory Management
 - Automated testing with Bash scripting
-
----
-
-## Repository
-[View Code on GitHub](https://github.com/will51mps0n/tsp_solver)
 
 ---
 

@@ -7,7 +7,7 @@ github_url: https://github.com/will51mps0n/Image_CNN/tree/main
 [← Back to Home](../index.html)
 
 # CIFAR-10 Image Classification: Fully-Connected and Convolutional Neural Networks  
-*February 2025*
+[View Code on GitHub](https://github.com/will51mps0n/Image_CNN/tree/main)
 
 ---
 
@@ -58,11 +58,6 @@ Key components include:
 - Adam Optimizer 
 - Cross Entropy Loss
 
-
----
-
-## Repository
-[View Code on GitHub](https://github.com/will51mps0n/Image_CNN/tree/main)
 
 ---
 

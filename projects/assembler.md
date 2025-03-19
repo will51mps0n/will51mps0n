@@ -7,7 +7,7 @@ github_url: https://github.com/will51mps0n/simulator
 [← Back to Home](../index.html)
 
 # LC-2K Pipeline Simulator & Assembler  
-*March 2024*
+[View Code on GitHub](https://github.com/will51mps0n/simulator)
 
 ---
 
@@ -82,11 +82,6 @@ The project is divided into two components:
 - Pipelining
 - Version Control
 - Automated Testing with Bash
-
----
-
-## Repository
-[View Code on GitHub](https://github.com/will51mps0n/simulator)
 
 ---
 

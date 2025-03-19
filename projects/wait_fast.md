@@ -60,7 +60,7 @@ Users often struggle to decide where to eat or drink due to long wait times and 
 - **Backend:** SQL, JSON for dynamic data updates, Python 
 
 ## Access:
-- The project is currently in beta testing, and will be deployed to the appstore soon. Message me if youd like to see the test or access to the repo
+- The project is currently in beta testing, and will be deployed to the appstore soon. Message me if you would like to see the beta version or request access to the repo:
 [View Code on GitHub](https://github.com/TiernanJesrani/WaitFast)
 
 ---

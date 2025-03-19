@@ -100,9 +100,4 @@ Implements the LRU strategy:
 
 ---
 
-## Repository
-[View Code on GitHub](https://github.com/will51mps0n/Cache)
-
----
-
 [← Back to Home](../index.html)

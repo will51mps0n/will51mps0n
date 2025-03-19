@@ -7,7 +7,7 @@ github_url: https://github.com/will51mps0n/connect_four_ai
 [← Back to Home](../index.html)
 
 # Connect Four AI: Minimax with Alpha-Beta Pruning
-*November 2024*
+[View Code on GitHub](https://github.com/will51mps0n/connect_four_ai)
 
 ---
 # Overview
@@ -41,11 +41,6 @@ The AI agent simulates future moves using a recursive minimax approach:
 - Python
 - NumPy
 - Pygame
-
----
-
-## Repository
-[View Code on GitHub](https://github.com/will51mps0n/connect_four_ai)
 
 ---
 

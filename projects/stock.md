@@ -8,7 +8,7 @@ github_url: https://github.com/will51mps0n/stock_price_analysis
 [← Back to Home](../index.html)
 
 # Stock Price Analysis and Prediction: Data Retrieval, Technical Indicators, and Machine Learning Models  
-*March 2025*
+[View Code on GitHub](https://github.com/will51mps0n/stock_price_analysis)
 
 ---
 
@@ -92,11 +92,6 @@ This project presents a comprehensive approach to **Stock Price Analysis and Pre
 - scikit-learn
 - TensorFlow/Keras
 - matplotlib
-
----
-
-## Repository
-[View Code on GitHub](https://github.com/will51mps0n/stock_price_analysis)
 
 ---
 

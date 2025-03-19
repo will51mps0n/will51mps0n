@@ -7,7 +7,7 @@ github_url: https://github.com/will51mps0n/maze_solver_ai
 [← Back to Home](../index.html)
 
 # Maze Solver AI: Search Algorithms for Pathfinding  
-*October 2024*
+[View Code on GitHub](https://github.com/will51mps0n/maze_solver_ai)
 
 ---
 
@@ -53,11 +53,6 @@ The **Maze Solver AI** demonstrates how different search strategies balance effi
 - NumPy
 - Matplotlib
 - Data Structures: Queue, Priority Queue, LIFO Queue
-
----
-
-## Repository
-[View Code on GitHub](https://github.com/will51mps0n/maze_solver_ai)
 
 ---
 
