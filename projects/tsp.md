@@ -8,7 +8,7 @@ github_url: https://github.com/will51mps0n/tsp
 [← Back to Home](../index.html)
 
 # Traveling Salesman Solver: MST, FASTTSP, and OPTTSP Algorithms  
-[View Code on GitHub](https://github.com/will51mps0n/tsp_solver)
+[View Code on GitHub](https://github.com/will51mps0n/tsp)
 
 
 ---
