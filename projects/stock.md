@@ -38,13 +38,13 @@ This project presents a comprehensive approach to **Stock Price Analysis and Pre
   - Calculates Simple Moving Averages (SMA) and Exponential Moving Averages (EMA) over specified windows to identify price trends.
   
 - **Relative Strength Index (RSI):**
-  - Computes RSI to assess the magnitude of recent price changes and evaluate overbought or oversold conditions. :contentReference[oaicite:1]{index=1}
+  - Computes RSI to assess the magnitude of recent price changes and evaluate overbought or oversold conditions.
 
 - **Moving Average Convergence Divergence (MACD):**
-  - Measures the relationship between two EMAs to identify bullish or bearish momentum. :contentReference[oaicite:2]{index=2}
+  - Measures the relationship between two EMAs to identify bullish or bearish momentum. 
 
 - **Bollinger Bands:**
-  - Calculates Bollinger Bands to analyze price volatility and potential overbought or oversold signals. :contentReference[oaicite:3]{index=3}
+  - Calculates Bollinger Bands to analyze price volatility and potential overbought or oversold signals. 
 
 - **Volatility Metrics:**
   - Determines historical volatility and Average True Range (ATR) to gauge market fluctuations.
@@ -67,7 +67,7 @@ This project presents a comprehensive approach to **Stock Price Analysis and Pre
 ## How It Works
 
 1. **Data Retrieval:**
-   - The `stock_history` function fetches historical stock data for a specified ticker, year, and month using the FMP API. :contentReference[oaicite:4]{index=4}
+   - The `stock_history` function fetches historical stock data for a specified ticker, year, and month using the FMP API.
 
 2. **Technical Indicator Computation:**
    - Functions like `calculate_moving_averages`, `calculate_rsi`, and `calculate_macd` compute respective technical indicators using the `ta` library.

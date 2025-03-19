@@ -13,7 +13,7 @@ github_url: https://github.com/will51mps0n/Cache
 
 ## Overview
 
-This project involves developing a **Cache Simulator** for the LC-2K instruction set architecture (ISA), implemented in C. The simulator integrates with an existing LC-2K processor simulator to model the behavior of a CPU cache, providing insights into memory access patterns, cache hits and misses, and the impact of cache configurations on performance.
+This project is a **Cache Simulator** for the LC-2K instruction set architecture (ISA), implemented in C. The simulator integrates with an existing LC-2K processor simulator to model the behavior of a CPU cache.
 
 ---
 

@@ -55,9 +55,6 @@ Key components include:
 - PyTorch
 - Matplotlib
 - Grid Search & Hyperparameter Optimization
-- Adam Optimizer 
-- Cross Entropy Loss
-
 
 ---
 

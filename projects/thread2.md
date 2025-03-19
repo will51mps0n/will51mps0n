@@ -16,7 +16,7 @@ github_url: https://github.com/eecs482/adwisi.ecomini.skis.2
 
 ## Overview
 
-This project implements a custom **C++ Thread Library** that simulates cooperative multithreading and synchronization primitives such as **mutexes** and **condition variables**. It demonstrates how operating systems manage context switching, thread lifetimes, and interrupt handling, offering a hands-on perspective on low-level threading concepts.
+This project implements a custom **C++ Thread Library** that simulates cooperative multithreading and synchronization primitives such as **mutexes** and **condition variables**. It demonstrates how operating systems manage context switching, thread lifetimes, and interrupt handling.
 
 ---
 

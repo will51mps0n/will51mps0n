@@ -51,6 +51,7 @@ Key highlights of the implementation include:
   | **Simulation**   | Uses neural network predictions for state evaluation instead of rollouts.   |
   | **Backpropagation** | Updates action values and visit counts, propagating rewards upwards.     |
 
+
 - **Training Loop:**
   - Runs multiple self-play episodes to gather data.
   - Trains the neural network based on gameplay history.
