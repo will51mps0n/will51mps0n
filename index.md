@@ -23,24 +23,25 @@ title: Adam Simpson
 <!-- Include Lottie Player -->
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
+{% raw %}
 <!-- Fullscreen Centered Lottie Animation -->
 <div style="
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;  /* Full viewport height */
-  margin-bottom: 0;
-  margin-top: 0;
+  height: 100vh;
+  margin: 0;
 ">
   <lottie-player 
     src="{{ site.baseurl }}/assets/animations/hello-world.json"
     background="transparent"
     speed="1"
-    style="width: 500px; height: 500px;"  <!-- Bigger size -->
+    style="width: 500px; height: 500px;"
     loop
     autoplay>
   </lottie-player>
 </div>
+{% endraw %}
 
 ## About Me
 
