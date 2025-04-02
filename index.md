@@ -32,8 +32,8 @@ This portfolio highlights select projects where I applied analytical, developmen
 
 ### Data Science, Artificial Intelligence, & Machine Learning
 
-- [**Power Outage Analysis - Python & ML**](./projects/power-outage.html) 
-  Jan 2025
+- [**Power Outage Analysis - Python & ML**](./projects/power-outage.html)   
+  Jan 2025   
   *Predicting the financial impact of major U.S. power outages (2000–2016) using data preprocessing, feature engineering, and Random Forest regression for prediction. The analysis outlines my process and findings on the dataset.*  
   **Skills:** Pandas, Numpy, Data Cleaning, EDA, Feature Engineering, Regression Modeling, Hyperparameter Tuning
 
@@ -56,7 +56,8 @@ This portfolio highlights select projects where I applied analytical, developmen
 ---
 
 ### Mobile Application & Web Development
-- [**Wait Fast - Python, Swift, & SQL**](./projects/wait_fast.html)  Jan 2025 - Present
+- [**Wait Fast - Python, Swift, & SQL**](./projects/wait_fast.html)  
+  Jan 2025 - Present  
   *Full-stack mobile app designed to optimize queue management in real-time, integrating a user-friendly front-end and responsive backend.*  
   **Skills:** Full-Stack Engineering - Mobile UI/UX, Backend API Development, Database Management
 
