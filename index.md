@@ -30,7 +30,7 @@ This portfolio highlights select projects where I applied analytical, developmen
 ## My Projects
 
 
-### Data Science, Artificial Intelligence, and Machine Learning
+### Data Science, Artificial Intelligence, & Machine Learning
 
 - [**Power Outage Analysis - Python & ML**](./projects/power-outage.html) 
   Jan 2025
@@ -55,7 +55,7 @@ This portfolio highlights select projects where I applied analytical, developmen
 
 ---
 
-### Mobile Application and Web Development
+### Mobile Application & Web Development
 - [**Wait Fast - Python, Swift, & SQL**](./projects/wait_fast.html)  Jan 2025 - Present
   *Full-stack mobile app designed to optimize queue management in real-time, integrating a user-friendly front-end and responsive backend.*  
   **Skills:** Full-Stack Engineering - Mobile UI/UX, Backend API Development, Database Management

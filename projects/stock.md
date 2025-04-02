@@ -31,7 +31,7 @@ This project presents a comprehensive approach to **Stock Price Analysis and Pre
 
 ### Data Retrieval:
 - **Financial Modeling Prep (FMP) API Integration:**
-  - Utilizes FMP's free API to obtain real-time and historical stock data, supporting over 25,000 stocks across multiple exchanges. :contentReference[oaicite:0]{index=0}
+  - Utilizes FMP's free API to obtain real-time and historical stock data, supporting over 25,000 stocks across multiple exchanges.
 
 ### Technical Indicator Computation:
 - **Moving Averages:**
