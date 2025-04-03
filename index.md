@@ -34,7 +34,7 @@ This portfolio highlights select projects where I applied analytical, developmen
 
 - [**Power Outage Analysis - Python & ML**](./projects/power-outage.html)  Jan 2025   
   *Predicted the financial impact of major U.S. power outages (2000–2016) using data preprocessing, feature engineering, and Random Forest regression for prediction. The analysis outlines my process and findings on the dataset.*  
-  **Skills:** Pandas, Numpy, Data Cleaning, EDA, Feature Engineering, Regression Modeling, Hyperparameter Tuning
+  **Skills:** Pandas, SKLearn, Numpy, Data Cleaning, EDA, Feature Engineering, Regression Modeling, Hyperparameter Tuning
 
 - [**Stock Price and Prediction - Python**](./projects/stock.html)  Dec 2024  
   *Developed a comprehensive pipeline for stock price analysis, incorporating data retrieval from the Financial Modeling Prep API, computation of technical indicators, and implementation of machine learning models including Linear Regression, Random Forest, and LSTM networks for predictive analytics.*  
