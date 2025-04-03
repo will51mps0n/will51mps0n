@@ -9,7 +9,7 @@ github_url: https://github.com/will51mps0n/power_outages_analysis/blob/main/adam
 # Power Outage Analysis
 [View Code on GitHub](https://github.com/will51mps0n/power_outages_analysis/blob/main/adam_poweroutages_analysis.ipynb)
 ---
-Dec 7, 2024
+Jan 7, 2024
 
 By Adam Simpson
 
