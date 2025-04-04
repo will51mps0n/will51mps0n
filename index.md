@@ -23,8 +23,9 @@ title: Adam Simpson
 
 I'm a computer science student at the University of Michigan with a strong focus on **Data Science, Machine Learning and Artificial Intelligence, and Software Engineering**. My interests in development include intelligent systems and autonomous software, analyzing data to drive insights, and building full-stack applications.  
 
-This portfolio highlights select projects where I applied analytical, development, and engineering skills to solve meaningful problems, or projects that I just enjoyed. Each project includes a detailed explanation of my objectives, approach, and key takeaways. Direct links to project repositories are available on each individual project page.
+This portfolio highlights select projects where I applied analytical, development, and engineering skills to solve meaningful problems, or projects that I just enjoyed. Each project includes a detailed explanation of my objectives, approach, and key takeaways. Direct links to project repositories are available on each individual project page.  
 
+Click on the blue titles below to be redirected to the dedicated project pages.
 ---
 
 ## My Projects
@@ -55,7 +56,7 @@ This portfolio highlights select projects where I applied analytical, developmen
 ---
 
 ### Mobile Application & Web Development
-- [**Wait Fast - Python, Swift, & SQL**](./projects/wait_fast.html)  Jan 2025 - Present   
+- [**WaitFast - Python, Swift, & SQL**](./projects/wait_fast.html)  Jan 2025 - Present   
   *Full-stack mobile app designed to optimize users time management and experience in real-time, integrating a user-friendly front-end and responsive backend. Worked in a team of 3 to develop the app to provide users with dynamically updated crowd sourced data reguarding wait times at nearby resturaunts, bars, and social locations.*  
   **Skills:** Full-Stack Engineering - Mobile UI/UX, AWS, Flask Blueprinting, Google Places API, Apple Location API's, AWS RDS, postgreSQL
 
