@@ -84,10 +84,10 @@ Users often struggle to decide where to eat or drink due to long wait times and 
   <div class="slider-container">
     <div class="slider">
       <img src="../assets/images/1.png" alt="Mockup 1">
+      <img src="../assets/images/9.png" alt="Mockup 9">
       <img src="../assets/images/4.png" alt="Mockup 4">
       <img src="../assets/images/2.png" alt="Mockup 2">
       <img src="../assets/images/3.png" alt="Mockup 3">
-      <img src="../assets/images/9.png" alt="Mockup 9">
     </div>
   </div>
 </div>
