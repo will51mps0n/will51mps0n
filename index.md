@@ -64,13 +64,13 @@ This portfolio highlights select projects where I applied analytical, developmen
 ### Competitive & Systems-Level Programming
 - [**Custom Thread Library - C++**](./projects/thread2.html)  Feb 2025  
   *Designed a cooperative thread library in C++, implementing context switching, mutexes, and condition variables using low-level `ucontext` primitives. Ensured FIFO scheduling, efficient CPU management, and robust interrupt handling.*  
-  **Skills:** Operating Systems Programming, Thread Scheduling, Context Switching, Mutexes & Monitors, RAII
+  **Skills:** Concurrent Programming, Operating Systems Programming, Thread Scheduling, Context Switching, Mutexes & Monitors, RAII
 
-- [**LC-2K Assembler and Pipeline Simulator - C and Assembly**](./projects/assembler.html)  Feb 2024  
+- [**LC-2K Assembler and Pipeline Simulator - C & Assembly**](./projects/assembler.html)  Feb 2024  
   *C implementation of an LC-2K assembler and a 5-stage pipelined processor simulator. The assembler translates assembly code to machine code, handling label resolution, symbol management, and error checking.*  
   **Skills:** Systems Programming, Assembly Language, Pipeline Simulation
 
-- [**LC-2K Cache Simulator**](./projects/cache.html)  March 2024  
+- [**LC-2K Cache Simulator - C & Assembly**](./projects/cache.html)  March 2024  
   *Implemented a configurable cache simulator in C, modeling set-associative caches with adjustable block sizes, set counts, and associativity levels. Integrated a Least Recently Used (LRU) replacement policy, write-back behavior, and detailed logging of cache hits, misses, memory accesses, and evictions.*  
   **Skills:** Systems Programming, Cache Simulation, Memory Management, Bit Manipulation
 
