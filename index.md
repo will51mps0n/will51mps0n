@@ -57,7 +57,7 @@ This portfolio highlights select projects where I applied analytical, developmen
 ### Mobile Application & Web Development
 - [**Wait Fast - Python, Swift, & SQL**](./projects/wait_fast.html)  Jan 2025 - Present   
   *Full-stack mobile app designed to optimize users time management and experience in real-time, integrating a user-friendly front-end and responsive backend. Worked in a team of 3 to develop the app to provide users with dynamically updated crowd sourced data reguarding wait times at nearby resturaunts, bars, and social locations.*  
-  **Skills:** Full-Stack Engineering - Mobile UI/UX, Backend API Development, Database Management
+  **Skills:** Full-Stack Engineering - Mobile UI/UX, AWS, Flask Blueprinting, Google Places API, Apple Location API's, AWS RDS, postgreSQL
 
 ---
 
