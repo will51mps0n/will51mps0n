@@ -4,6 +4,40 @@ title: WaitFast Application
 github_url: https://github.com/TiernanJesrani/WaitFast
 ---
 
+<style>
+  .slider-container {
+    width: 100%;
+    overflow-x: auto;
+    white-space: nowrap;
+    padding: 20px 0;
+    -webkit-overflow-scrolling: touch; 
+    scrollbar-width: thin; 
+  }
+  
+  .slider-container::-webkit-scrollbar {
+    height: 8px;
+  }
+  
+  .slider-container::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+  }
+  
+  .slider {
+    display: inline-flex;
+    flex-wrap: nowrap;
+  }
+  
+  .slider img {
+    width: 300px;
+    height: 550px; 
+    object-fit: cover; 
+    margin: 0 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+</style>
+
 [← Back to Home](../index.html)
 
 # WaitFast: Dynamically Updated Wait Time Application  
@@ -47,13 +81,14 @@ Users often struggle to decide where to eat or drink due to long wait times and 
 ## App Frontend 
 
 <div style="text-align: center;">
-  <!-- Sliding bar using basic HTML -->
-  <div class="slider">
-    <img src="../assets/images/1.png" alt="Mockup 1" width="300px" style="margin: 10px;">
-    <img src="../assets/images/4.png" alt="Mockup 4" width="300px" style="margin: 10px;">
-    <img src="../assets/images/2.png" alt="Mockup 2" width="300px" style="margin: 10px;">
-    <img src="../assets/images/3.png" alt="Mockup 3" width="300px" style="margin: 10px;">
-    <img src="../assets/images/9.png" alt="Mockup 9" width="300px" style="margin: 10px;">
+  <div class="slider-container">
+    <div class="slider">
+      <img src="../assets/images/1.png" alt="Mockup 1">
+      <img src="../assets/images/4.png" alt="Mockup 4">
+      <img src="../assets/images/2.png" alt="Mockup 2">
+      <img src="../assets/images/3.png" alt="Mockup 3">
+      <img src="../assets/images/9.png" alt="Mockup 9">
+    </div>
   </div>
 </div>
 
