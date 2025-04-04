@@ -26,6 +26,7 @@ I'm a computer science student at the University of Michigan with a strong focus
 This portfolio highlights select projects where I applied analytical, development, and engineering skills to solve meaningful problems, or projects that I just enjoyed. Each project includes a detailed explanation of my objectives, approach, and key takeaways. Direct links to project repositories are available on each individual project page.  
 
 Click on the blue titles below to be redirected to the dedicated project pages.
+
 ---
 
 ## My Projects
