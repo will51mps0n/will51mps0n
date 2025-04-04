@@ -21,7 +21,7 @@ title: Adam Simpson
 
 ## About Me
 
-I'm a computer science student at the University of Michigan with a strong focus on **Data Science, Machine Learning, and Software Engineering**. My interests in development include intelligent systems and autonomous software, analyzing data to drive insights, and building full-stack applications.  
+I'm a computer science student at the University of Michigan with a strong focus on **Data Science, Machine Learning and Artificial Intelligence, and Software Engineering**. My interests in development include intelligent systems and autonomous software, analyzing data to drive insights, and building full-stack applications.  
 
 This portfolio highlights select projects where I applied analytical, development, and engineering skills to solve meaningful problems, or projects that I just enjoyed. Each project includes a detailed explanation of my objectives, approach, and key takeaways. Direct links to project repositories are available on each individual project page.
 
@@ -62,6 +62,10 @@ This portfolio highlights select projects where I applied analytical, developmen
 ---
 
 ### Competitive & Systems-Level Programming
+- [**EECS 482 Memory Manager - C++**](./projects/mem.html)  Mar 2025  
+  *Designed and implemented a virtual memory pager handling swap-backed and file-backed pages, copy-on-write sharing, and physical memory eviction using the clock algorithm. Built to interface with a simulated MMU, the pager supports multi-process virtual address spaces, page fault handling, and lazy I/O optimization.*  
+  **Skills:** Virtual Memory Management, Copy-on-Write, Page Fault Handling, Clock Eviction Algorithm, Swap/File-backed Paging, Low-Level C++
+
 - [**Custom Thread Library - C++**](./projects/thread2.html)  Feb 2025  
   *Designed a cooperative thread library in C++, implementing context switching, mutexes, and condition variables using low-level `ucontext` primitives. Ensured FIFO scheduling, efficient CPU management, and robust interrupt handling.*  
   **Skills:** Concurrent Programming, Operating Systems Programming, Thread Scheduling, Context Switching, Mutexes & Monitors, RAII
@@ -70,7 +74,7 @@ This portfolio highlights select projects where I applied analytical, developmen
   *C implementation of an LC-2K assembler and a 5-stage pipelined processor simulator. The assembler translates assembly code to machine code, handling label resolution, symbol management, and error checking.*  
   **Skills:** Systems Programming, Assembly Language, Pipeline Simulation
 
-- [**LC-2K Cache Simulator - C & Assembly**](./projects/cache.html)  March 2024  
+- [**LC-2K Cache Simulator - C & Assembly**](./projects/cache.html)  Mar 2024  
   *Implemented a configurable cache simulator in C, modeling set-associative caches with adjustable block sizes, set counts, and associativity levels. Integrated a Least Recently Used (LRU) replacement policy, write-back behavior, and detailed logging of cache hits, misses, memory accesses, and evictions.*  
   **Skills:** Systems Programming, Cache Simulation, Memory Management, Bit Manipulation
 

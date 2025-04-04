@@ -70,7 +70,7 @@ This project implements a custom **C++ Thread Library** that simulates cooperati
 ---
 
 ## Access
-Message me for access to this repo due to the EECS 482 Umich Honor Code :c
+Message me for access to this repo due to the EECS 482 Umich Honor Code
 [View Code on GitHub](https://github.com/eecs482/adwisi.ecomini.skis.2)
 
 ---
