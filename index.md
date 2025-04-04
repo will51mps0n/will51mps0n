@@ -62,7 +62,8 @@ This portfolio highlights select projects where I applied analytical, developmen
 ---
 
 ### Competitive & Systems-Level Programming
-- [**EECS 482 Memory Manager - C++**](./projects/mem.html)  Mar 2025  
+
+- [**Memory Manager and Pager - C++**](./projects/mem.html)  Mar 2025  
   *Designed and implemented a virtual memory pager handling swap-backed and file-backed pages, copy-on-write sharing, and physical memory eviction using the clock algorithm. Built to interface with a simulated MMU, the pager supports multi-process virtual address spaces, page fault handling, and lazy I/O optimization.*  
   **Skills:** Virtual Memory Management, Copy-on-Write, Page Fault Handling, Clock Eviction Algorithm, Swap/File-backed Paging, Low-Level C++
 
