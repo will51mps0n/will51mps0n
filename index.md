@@ -36,15 +36,15 @@ Click on the blue titles below to be redirected to the dedicated project pages.
 
 - [**Power Outage Analysis - Python & ML**](./projects/power-outage.html)  Jan 2025   
   *Predicted the financial impact of major U.S. power outages (2000–2016) using data preprocessing, feature engineering, and Random Forest regression for prediction. The analysis outlines my process and findings on the dataset.*  
-  **Skills:** Pandas, SKLearn, Numpy, Data Cleaning, EDA, Feature Engineering, Regression Modeling, Hyperparameter Tuning
+  **Skills:** SKLearn, Pandas, Numpy, Data Cleaning, Pipelining, EDA, Feature Engineering, Regression Modeling, Hyperparameter Tuning
 
 - [**Stock Price and Prediction - Python**](./projects/stock.html)  Dec 2024  
   *Developed a comprehensive pipeline for stock price analysis, incorporating data retrieval from the Financial Modeling Prep API, computation of technical indicators, and implementation of machine learning models including Linear Regression, Random Forest, and LSTM networks for predictive analytics.*  
-  **Skills:** Data Retrieval, Technical Analysis, Machine Learning, Time Series Forecasting, API Integration
+  **Skills:** Data Retrieval, Technical Analysis, Time Series Forecasting, API Integration
 
 - [**AlphaZero Othello - Python & AI**](./projects/alz.html)  Nov 2024  
   *Implemented an AlphaZero-based agent for Othello using Monte Carlo Tree Search (MCTS) combined with a deep convolutional neural network. Designed all MCTS phases—selection, expansion, simulation, backpropagation—and integrated neural network predictions to improve gameplay through self-play.*  
-  **Skills:** Python, PyTorch, Reinforcement Learning, MCTS, Neural Networks, Unsupervised Learning
+  **Skills:** PyTorch, Reinforcement Learning, MCTS, Neural Networks, Unsupervised Learning
   
 - [**CIFAR-10 Image Classifier - Python & AI**](./projects/img.html)  Nov 2024  
   *Developed and trained both Fully-Connected and Convolutional Neural Networks for CIFAR-10 image classification. Conducted hyperparameter tuning through grid search and visualized model predictions, ensuring deterministic behavior across runs.*  
@@ -59,7 +59,7 @@ Click on the blue titles below to be redirected to the dedicated project pages.
 ### Mobile Application & Web Development
 - [**WaitFast - Python, Swift, & SQL**](./projects/wait_fast.html)  Jan 2025 - Present   
   *Full-stack mobile app designed to optimize users time management and experience in real-time, integrating a user-friendly front-end and responsive backend. Worked in a team of 3 to develop the app to provide users with dynamically updated crowd sourced data reguarding wait times at nearby resturaunts, bars, and social locations.*  
-  **Skills:** Full-Stack Engineering - Mobile UI/UX, AWS, Flask Blueprinting, Google Places API, Apple Location API's, AWS RDS, postgreSQL
+  **Skills:** Full-Stack Engineering: IOS UI/UX, AWS, Flask Blueprinting, Google Places API, Apple Location API's RDS, postgreSQL, Customer Discovery, Project Spec Planning, Version Control
 
 ---
 
@@ -67,7 +67,7 @@ Click on the blue titles below to be redirected to the dedicated project pages.
 
 - [**Virtual Memory Pager - C++**](./projects/mem.html)  Mar 2025  
   *Designed and implemented a virtual memory pager handling swap-backed and file-backed pages, copy-on-write sharing, and physical memory eviction using the clock algorithm. Built to interface with a simulated MMU, the pager supports multi-process virtual address spaces, page fault handling, and lazy I/O optimization.*  
-  **Skills:** Virtual Memory Management, Copy-on-Write, Page Fault Handling, Clock Eviction Algorithm, Swap/File-backed Paging, Low-Level C++
+  **Skills:** Virtual Memory Management, Copy-on-Write, Page Fault Handling, Clock Eviction, Swap/File-backed Paging
 
 - [**Custom Thread Library - C++**](./projects/thread2.html)  Feb 2025  
   *Designed a cooperative thread library in C++, implementing context switching, mutexes, and condition variables using low-level `ucontext` primitives. Ensured FIFO scheduling, efficient CPU management, and robust interrupt handling.*  
