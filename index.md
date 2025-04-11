@@ -58,7 +58,7 @@ Click on the blue titles below to be redirected to the dedicated project pages.
 
 ### Mobile Application & Web Development
 - [**WaitFast - Python, Swift, & SQL**](./projects/wait_fast.html)  Jan 2025 - Present   
-  *Full-stack mobile app designed to optimize users time management and experience in real-time, integrating a user-friendly front-end and responsive backend. Worked in a team of 3 to develop the app to provide users with dynamically updated crowd sourced data reguarding wait times at nearby resturaunts, bars, and social locations.*  
+  *Full-stack mobile app designed to optimize users time management and experience in real-time, integrating a user-friendly front-end and responsive backend. Worked in a team to develop the app to provide users with dynamically updated crowd sourced data reguarding wait times at nearby resturaunts, bars, and social locations. Currently available for download on the appstore: [View Waitfast On App Store](https://apps.apple.com/us/app/waitfast/id6744225739)*  
   **Skills:** Full-Stack Engineering: IOS UI/UX, AWS, Flask Blueprinting, Google Places API, Apple Location API's RDS, postgreSQL, Customer Discovery, Project Spec Planning, Version Control
 
 ---

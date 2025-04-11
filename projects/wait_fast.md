@@ -78,30 +78,14 @@ Users often struggle to decide where to eat or drink due to long wait times and 
 
 ---
 
-## App Frontend 
-
-<div style="text-align: center;">
-  <div class="slider-container">
-    <div class="slider">
-      <img src="../assets/images/1.png" alt="Mockup 1">
-      <img src="../assets/images/9.png" alt="Mockup 9">
-      <img src="../assets/images/4.png" alt="Mockup 4">
-      <img src="../assets/images/2.png" alt="Mockup 2">
-      <img src="../assets/images/3.png" alt="Mockup 3">
-    </div>
-  </div>
-</div>
-
----
-
 ## Tech Stack:
 - **Frontend:** Swift (iOS)
 - **APIs:** Google Places API, Apple Maps API
 - **Backend:** AWS, SQL, JSON for dynamic data updates, Python 
 
 ## Access:
-- The project is currently in beta testing, and will be deployed to the appstore soon. Message me if you would like to see the beta version or request access to the repo:
-[View Code on GitHub](https://github.com/TiernanJesrani/WaitFast)
+- This application is currently available for free on the appstore!
+[View On App Store](https://apps.apple.com/us/app/waitfast/id6744225739)
 
 ---
 
