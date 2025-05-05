@@ -47,10 +47,10 @@ Wrote 30+ edge case tests validating:
 
 ## Access
 
-Due to the EECS 482 Honor Code, this repository is private.  
 Message me for access to view the implementation.
 
 [Request Access to Code](/adwisi@umich.edu)
 
+[← Back to Home](../index.html)
 ---
 
