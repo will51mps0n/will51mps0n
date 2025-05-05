@@ -1,10 +1,10 @@
 ---
 layout: default
-title: EECS 482 Multithreaded File Server
+title: Multithreaded File Server
 ---
 
 <p style="text-align: center; font-weight: bold;">
-  <span style="color:rgb(0, 0, 0); font-size: 28px;">Multithreaded File Server</span><br>
+  <span style="color:rgb(0, 0, 0); font-size: 28px;">EECS 482 Multithreaded File Server</span><br>
   <span style="color:rgb(12, 51, 86); font-size: 24px; text-shadow: -1px -1px 0 #FFCB05, 1px -1px 0 #FFCB05, -1px 1px 0 #FFCB05, 1px 1px 0 #FFCB05;">EECS 482 – Operating Systems</span>
 </p>
 
