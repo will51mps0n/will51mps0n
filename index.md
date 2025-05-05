@@ -31,59 +31,63 @@ Click on the blue titles below to be redirected to the dedicated project pages.
 
 ## My Projects
 
-
 ### Data Science, Artificial Intelligence, & Machine Learning
 
-- [**Power Outage Analysis - Python & ML**](./projects/power-outage.html)  Jan 2025   
-  *Predicted the financial impact of major U.S. power outages (2000–2016) using data preprocessing, feature engineering, and Random Forest regression for prediction. The analysis outlines my process and findings on the dataset.*  
-  **Skills:** SKLearn, Pandas, Numpy, Data Cleaning, Pipelining, EDA, Feature Engineering, Regression Modeling, Hyperparameter Tuning
+- [**Power Outage Analysis – Python & ML**](./projects/power-outage.html)  
+  Predicted the financial impact of U.S. power outages using Random Forest regression on historical data.  
+  **Skills:** Scikit-learn, Pandas, Data Cleaning, Feature Engineering, Regression, Hyperparameter Tuning
 
-- [**Stock Price and Prediction - Python**](./projects/stock.html)  Dec 2024  
-  *Developed a comprehensive pipeline for stock price analysis, incorporating data retrieval from the Financial Modeling Prep API, computation of technical indicators, and implementation of machine learning models including Linear Regression, Random Forest, and LSTM networks for predictive analytics.*  
-  **Skills:** Data Retrieval, Technical Analysis, Time Series Forecasting, API Integration
+- [**Stock Prediction Pipeline – Python**](./projects/stock.html)  
+  Built an end-to-end stock price predictor with technical indicators and ML models including LSTM.  
+  **Skills:** Time Series Forecasting, API Integration, Linear Regression, Random Forest, LSTM
 
-- [**AlphaZero Othello - Python & AI**](./projects/alz.html)  Nov 2024  
-  *Implemented an AlphaZero-based agent for Othello using Monte Carlo Tree Search (MCTS) combined with a deep convolutional neural network. Designed all MCTS phases—selection, expansion, simulation, backpropagation—and integrated neural network predictions to improve gameplay through self-play.*  
-  **Skills:** PyTorch, Reinforcement Learning, MCTS, Neural Networks, Unsupervised Learning
-  
-- [**CIFAR-10 Image Classifier - Python & AI**](./projects/img.html)  Nov 2024  
-  *Developed and trained both Fully-Connected and Convolutional Neural Networks for CIFAR-10 image classification. Conducted hyperparameter tuning through grid search and visualized model predictions, ensuring deterministic behavior across runs.*  
-  **Skills:** PyTorch, CNNs, Neural Networks, Hyperparameter Tuning
+- [**AlphaZero Othello – Python & AI**](./projects/alz.html)  
+  Implemented an AlphaZero-style Othello agent using Monte Carlo Tree Search and neural networks.  
+  **Skills:** PyTorch, Reinforcement Learning, MCTS, Neural Networks
 
-- [**Autonomous Connect Four - Python & AI**](./projects/connect_four.html)  Aug 2024  
-  *A Connect Four agent using Minimax search with Alpha-Beta pruning, complete with an interactive Pygame UI. The AI evaluates game states efficiently to beat human players in optimal moves.*  
-  **Skills:** AI Search Algorithms, Alpha-Beta Pruning, Pygame
+- [**CIFAR-10 Classifier – Python & AI**](./projects/img.html)  
+  Trained CNNs and FCNs for image classification with hyperparameter tuning and result visualizations.  
+  **Skills:** PyTorch, CNNs, Hyperparameter Tuning
 
----
-
-### Mobile Application & Web Development
-- [**WaitFast - Python, Swift, & SQL**](./projects/wait_fast.html)  Jan 2025 - Present   
-  *Full-stack mobile app designed to optimize users time management and experience in real-time, integrating a user-friendly front-end and responsive backend. Worked in a team to develop the app to provide users with dynamically updated crowd sourced data reguarding wait times at nearby resturaunts, bars, and social locations. Currently available for download on the appstore: [View Waitfast On App Store](https://apps.apple.com/us/app/waitfast/id6744225739)*  
-  **Skills:** Full-Stack Engineering: IOS UI/UX, AWS, Flask Blueprinting, Google Places API, Apple Location API's RDS, postgreSQL, Customer Discovery, Project Spec Planning, Version Control
+- [**Connect Four AI – Python**](./projects/connect_four.html)  
+  Developed an unbeatable Connect Four bot using Minimax with Alpha-Beta pruning and Pygame UI.  
+  **Skills:** AI Search Algorithms, Game Theory, Pygame
 
 ---
 
-### Competitive & Systems-Level Programming
+### Mobile & Full-Stack Development
 
-- [**Virtual Memory Pager - C++**](./projects/mem.html)  Mar 2025  
-  *Designed and implemented a virtual memory pager handling swap-backed and file-backed pages, copy-on-write sharing, and physical memory eviction using the clock algorithm. Built to interface with a simulated MMU, the pager supports multi-process virtual address spaces, page fault handling, and lazy I/O optimization.*  
-  **Skills:** Virtual Memory Management, Copy-on-Write, Page Fault Handling, Clock Eviction, Swap/File-backed Paging
+- [**WaitFast – Python, Swift, SQL**](./projects/wait_fast.html)  
+  Built a mobile app showing live wait times at nearby venues using crowdsourced data and APIs.  
+  **Skills:** iOS UI/UX, Flask, AWS, PostgreSQL, Google & Apple APIs, Version Control
 
-- [**Custom Thread Library - C++**](./projects/thread2.html)  Feb 2025  
-  *Designed a cooperative thread library in C++, implementing context switching, mutexes, and condition variables using low-level `ucontext` primitives. Ensured FIFO scheduling, efficient CPU management, and robust interrupt handling.*  
-  **Skills:** Concurrent Programming, Operating Systems Programming, Thread Scheduling, Context Switching, Mutexes & Monitors, RAII
+---
 
-- [**LC-2K Assembler and Pipeline Simulator - C & Assembly**](./projects/assembler.html)  Feb 2024  
-  *C implementation of an LC-2K assembler and a 5-stage pipelined processor simulator. The assembler translates assembly code to machine code, handling label resolution, symbol management, and error checking.*  
-  **Skills:** Systems Programming, Assembly Language, Pipeline Simulation
+### Systems & Competitive Programming
 
-- [**LC-2K Cache Simulator - C & Assembly**](./projects/cache.html)  Mar 2024  
-  *Implemented a configurable cache simulator in C, modeling set-associative caches with adjustable block sizes, set counts, and associativity levels. Integrated a Least Recently Used (LRU) replacement policy, write-back behavior, and detailed logging of cache hits, misses, memory accesses, and evictions.*  
-  **Skills:** Systems Programming, Cache Simulation, Memory Management, Bit Manipulation
+- [**Multithreaded File Server – C++**](./projects/file-server.html)  
+  Implemented a networked file server with concurrent request handling and lock-safe path traversal.  
+  **Skills:** Multithreading, RAII, Boost Locks, Socket Programming, File Systems
 
-- [**Traveling Salesman Problem Solver - C++**](./projects/tsp.html)  Dec 2023  
-  *C++ implementation of MST, Fast Insertion Heuristic, and Optimal Branch & Bound solutions for TSP. Includes command-line interface and automated test scripts in Bash.*  
-  **Skills:** Algorithm Design, MST, Branch & Bound, Heuristics, Bash Scripting
+- [**Virtual Memory Pager – C++**](./projects/mem.html)  
+  Created a virtual memory manager supporting page faults, copy-on-write, and clock-based eviction.  
+  **Skills:** Virtual Memory, Page Tables, MMU Simulation, Copy-on-Write, Clock Algorithm
+
+- [**Custom Thread Library – C++**](./projects/thread2.html)  
+  Built a cooperative threading library with mutexes, condition variables, and context switching.  
+  **Skills:** Thread Scheduling, ucontext, Mutexes, Condition Variables
+
+- [**LC-2K Assembler & Pipeline Simulator – C**](./projects/assembler.html)  
+  Developed an assembler and pipelined CPU simulator for the LC-2K instruction set.  
+  **Skills:** Systems Programming, Assembly, Pipeline Simulation
+
+- [**LC-2K Cache Simulator – C**](./projects/cache.html)  
+  Simulated configurable LRU-based caches with logging for memory accesses and eviction behavior.  
+  **Skills:** Memory Management, Cache Simulation, LRU Policy
+
+- [**Traveling Salesman Solver – C++**](./projects/tsp.html)  
+  Solved TSP with MST heuristics, fast insertion, and optimal branch & bound strategies.  
+  **Skills:** Algorithm Design, MST, Heuristics, Bash Scripting
 
 ---
 
