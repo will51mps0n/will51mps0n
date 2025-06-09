@@ -21,9 +21,11 @@ title: Adam Simpson
 
 ## About Me
 
-I'm a computer science student at the University of Michigan with a strong focus on **Data Science, Machine Learning and Artificial Intelligence, and Software Engineering**. My interests in development include intelligent systems and autonomous software, analyzing data to drive insights, and building full-stack applications.  
+I’m a recent graduate from the University of Michigan with a B.S. in Electrical Engineering and Computer Science, focused on systems engineering and infrastructure, software development, and data science and machine learning.
 
-This portfolio highlights select projects where I applied analytical, development, and engineering skills to solve meaningful problems, or projects that I just enjoyed. Each project includes a detailed explanation of my objectives, approach, and key takeaways. Direct links to project repositories are available on each individual project page.  
+My work spans low-level systems projects — including a virtual memory pager, a multithreaded file server, and custom threading libraries in C and C++ — as well as applied machine learning and full-stack development. I’ve built end-to-end applications like WaitFast, a mobile app with a live Flask/AWS backend, and explored deep learning through computer vision and reinforcement learning projects using PyTorch.
+
+This portfolio highlights a selection of these projects, with technical breakdowns, source code, and reflections on the challenges tackled and lessons learned.
 
 Click on the blue titles below to be redirected to the dedicated project pages.
 
@@ -31,26 +33,54 @@ Click on the blue titles below to be redirected to the dedicated project pages.
 
 ## My Projects
 
+### Systems & Infrastructure 
+
+- [**Multithreaded File Server – C++**](./projects/file-server.html)  
+  Designed and implemented a networked file server supporting concurrent client requests and hierarchical path traversal. The server communicates over TCP sockets and ensures crash consistency and correctness through atomic disk writes and thread-safe I/O using RAII and Boost locks.   
+  **Skills:** Multithreading, RAII, Boost Locks, Socket Programming, File Systems
+
+- [**Virtual Memory Pager – C++**](./projects/mem.html)  
+  Built a virtual memory subsystem that handles page faults, copy-on-write behavior, and page eviction using the clock algorithm. The pager simulates real-world memory management logic, including read/write protections and shared memory scenarios across processes.  
+  **Skills:** Virtual Memory, Page Tables, MMU Simulation, Copy-on-Write, Clock Algorithm
+
+- [**Custom Thread Library – C++**](./projects/thread2.html)  
+  Developed a cooperative user-level threading library using ucontext.h, supporting thread scheduling, context switching, and synchronization primitives like mutexes and condition variables.  
+  **Skills:** Thread Scheduling, ucontext, Mutexes, Condition Variables
+
+- [**LC-2K Assembler & Pipeline Simulator – C**](./projects/assembler.html)  
+  Wrote a full assembler and 5-stage pipelined simulator for the LC-2K instruction set, with support for label resolution, instruction decoding, and pipeline hazard mitigation. 
+  **Skills:** Systems Programming, Assembly, Pipeline Simulation
+
+- [**LC-2K Cache Simulator – C**](./projects/cache.html)  
+  Simulated a parameterized LRU cache system with support for configurable block and set sizes. Logged memory operations to validate eviction policy and cache performance under various workloads.  
+  **Skills:** Memory Management, Cache Simulation, LRU Policy
+
+- [**Traveling Salesman Solver – C++**](./projects/tsp.html)  
+  Implemented a TSP solver combining minimum spanning tree heuristics, nearest insertion, and optimized branch & bound search to compute near-optimal tour paths.    
+  **Skills:** Algorithm Design, MST, Heuristics, Bash Scripting
+
+---
+
 ### Data Science, Artificial Intelligence, & Machine Learning
 
 - [**Power Outage Analysis – Python & ML**](./projects/power-outage.html)  
-  Predicted the financial impact of U.S. power outages using Random Forest regression on historical data.  
+  Built a regression pipeline to estimate the financial cost of power outages using Random Forests. Focused on extensive feature engineering and hyperparameter optimization on real utility data.  
   **Skills:** Scikit-learn, Pandas, Data Cleaning, Feature Engineering, Regression, Hyperparameter Tuning
 
 - [**Stock Prediction Pipeline – Python**](./projects/stock.html)  
-  Built an end-to-end stock price predictor with technical indicators and ML models including LSTM.  
+  Developed an end-to-end forecasting system for stock prices, integrating live data scraping, technical indicators, and models like LSTM and Random Forests to predict future price movements.   
   **Skills:** Time Series Forecasting, API Integration, Linear Regression, Random Forest, LSTM
 
 - [**AlphaZero Othello – Python & AI**](./projects/alz.html)  
-  Implemented an AlphaZero-style Othello agent using Monte Carlo Tree Search and neural networks.  
+  Trained an AlphaZero-inspired agent using Monte Carlo Tree Search and a deep neural network for board evaluation and policy guidance. Self-play loop built for continuous model improvement.  
   **Skills:** PyTorch, Reinforcement Learning, MCTS, Neural Networks
 
 - [**CIFAR-10 Classifier – Python & AI**](./projects/img.html)  
-  Trained CNNs and FCNs for image classification with hyperparameter tuning and result visualizations.  
+  Built image classification models on CIFAR-10 using CNNs and fully connected networks. Ran grid search over architectures and training hyperparameters to compare accuracy and convergence.  
   **Skills:** PyTorch, CNNs, Hyperparameter Tuning
 
 - [**Connect Four AI – Python**](./projects/connect_four.html)  
-  Developed an unbeatable Connect Four bot using Minimax with Alpha-Beta pruning and Pygame UI.  
+  Engineered a perfect-play Connect Four AI using the Minimax algorithm with alpha-beta pruning and a hand-crafted evaluation function. Includes an interactive UI with Pygame.  
   **Skills:** AI Search Algorithms, Game Theory, Pygame
 
 ---
@@ -58,38 +88,11 @@ Click on the blue titles below to be redirected to the dedicated project pages.
 ### Mobile & Full-Stack Development
 
 - [**WaitFast – Python, Swift, SQL**](./projects/wait_fast.html)  
-  Built a mobile app showing live wait times at nearby venues using crowdsourced data and APIs.  
+  Built an IOS mobile app that crowdsources and displays real-time wait times at local venues. Backend includes a live Flask API, PostgreSQL database, and AWS-hosted infrastructure.  
   **Skills:** iOS UI/UX, Flask, AWS, PostgreSQL, Google & Apple APIs, Version Control
 
 ---
 
-### Systems & Competitive Programming
-
-- [**Multithreaded File Server – C++**](./projects/file-server.html)  
-  Implemented a networked file server with concurrent request handling and lock-safe path traversal.  
-  **Skills:** Multithreading, RAII, Boost Locks, Socket Programming, File Systems
-
-- [**Virtual Memory Pager – C++**](./projects/mem.html)  
-  Created a virtual memory manager supporting page faults, copy-on-write, and clock-based eviction.  
-  **Skills:** Virtual Memory, Page Tables, MMU Simulation, Copy-on-Write, Clock Algorithm
-
-- [**Custom Thread Library – C++**](./projects/thread2.html)  
-  Built a cooperative threading library with mutexes, condition variables, and context switching.  
-  **Skills:** Thread Scheduling, ucontext, Mutexes, Condition Variables
-
-- [**LC-2K Assembler & Pipeline Simulator – C**](./projects/assembler.html)  
-  Developed an assembler and pipelined CPU simulator for the LC-2K instruction set.  
-  **Skills:** Systems Programming, Assembly, Pipeline Simulation
-
-- [**LC-2K Cache Simulator – C**](./projects/cache.html)  
-  Simulated configurable LRU-based caches with logging for memory accesses and eviction behavior.  
-  **Skills:** Memory Management, Cache Simulation, LRU Policy
-
-- [**Traveling Salesman Solver – C++**](./projects/tsp.html)  
-  Solved TSP with MST heuristics, fast insertion, and optimal branch & bound strategies.  
-  **Skills:** Algorithm Design, MST, Heuristics, Bash Scripting
-
----
 
 <p align="center" style="font-family: 'Lato', sans-serif;">
   <span style="font-size: 30px; color:rgb(26, 188, 93); font-weight: normal;">Connect with Me</span><br>
