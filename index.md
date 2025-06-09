@@ -21,13 +21,13 @@ title: Adam Simpson
 
 ## About Me
 
-I’m a recent graduate from the University of Michigan with a B.S. in Electrical Engineering and Computer Science, focused on systems engineering and infrastructure, software development, and data science and machine learning.
+I’m a recent graduate from the University of Michigan with a B.S. in Electrical Engineering and Computer Science, focused on systems engineering and infrastructure, software development, and data science and machine learning.   
 
-My work spans low-level systems projects — including a virtual memory pager, a multithreaded file server, and custom threading libraries in C and C++ — as well as applied machine learning and full-stack development. I’ve built end-to-end applications like WaitFast, a mobile app with a live Flask/AWS backend, and explored deep learning through computer vision and reinforcement learning projects using PyTorch.
+My work spans low-level systems projects — including a virtual memory pager, a multithreaded file server, and custom threading libraries in C and C++ — as well as applied machine learning and full-stack development. I’ve built end-to-end applications like WaitFast, a mobile app with a live Flask/AWS backend, and explored deep learning through computer vision and reinforcement learning projects using PyTorch.   
 
-This portfolio highlights a selection of these projects, with technical breakdowns, source code, and reflections on the challenges tackled and lessons learned.
+This portfolio highlights a selection of these projects, with technical breakdowns, source code, and reflections on the challenges tackled and lessons learned.   
 
-Click on the blue titles below to be redirected to the dedicated project pages.
+Click on the blue titles below to be redirected to the dedicated project pages.   
 
 ---
 
