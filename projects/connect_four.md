@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Connect Four AI
-github_url: https://github.com/will51mps0n/connect_four_ai
+github_url: https://github.com/will51mps0n/Connect-Four-AI
 ---
 
 [← Back to Home](../index.html)
 
 # Connect Four AI: Minimax with Alpha-Beta Pruning
-[View Code on GitHub](https://github.com/will51mps0n/connect_four_ai)
+[View Code on GitHub](https://github.com/will51mps0n/Connect-Four-AI)
 
 ---
 # Overview

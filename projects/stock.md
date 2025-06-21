@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Stock Price Analysis and Prediction
-github_url: https://github.com/will51mps0n/stock_price_analysis
+github_url: https://github.com/will51mps0n/Stock-Prediction-Pipeline
 
 ---
 
 [← Back to Home](../index.html)
 
 # Stock Price Analysis and Prediction
-[View Code on GitHub](https://github.com/will51mps0n/stock_analysis)
+[View Code on GitHub](https://github.com/will51mps0n/Stock-Prediction-Pipeline)
 
 ---
 

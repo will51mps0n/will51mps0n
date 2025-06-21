@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Maze Solver AI
-github_url: https://github.com/will51mps0n/maze_solver_ai
+github_url: https://github.com/will51mps0n/Maze-Solver-AI
 ---
 
 [← Back to Home](../index.html)
 
 # Maze Solver AI: Search Algorithms for Pathfinding  
-[View Code on GitHub](https://github.com/will51mps0n/maze_solver_ai)
+[View Code on GitHub](https://github.com/will51mps0n/Maze-Solver-AI)
 
 ---
 

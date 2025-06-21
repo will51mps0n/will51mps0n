@@ -1,14 +1,14 @@
 ---
 layout: default
 title: AlphaZero-Based Othello AI
-github_url: https://github.com/will51mps0n/tsp
+github_url: https://github.com/will51mps0n/Othello-AG0
 
 ---
 
 [← Back to Home](../index.html)
 
 # AlphaZero-Based Othello AI  
-[View Code on GitHub](https://github.com/will51mps0n/Othello_AG0/blob/main/MCST.py)
+[View Code on GitHub](https://github.com/will51mps0n/Othello-AG0)
 
 ---
 

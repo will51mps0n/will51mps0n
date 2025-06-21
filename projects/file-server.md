@@ -3,10 +3,10 @@ layout: default
 title: Multithreaded File Server
 ---
 
-<p style="text-align: center; font-weight: bold;">
-  <span style="color:rgb(0, 0, 0); font-size: 28px;">Multithreaded File Server</span><br>
-  <span style="color:rgb(12, 51, 86); font-size: 24px; text-shadow: -1px -1px 0 #FFCB05, 1px -1px 0 #FFCB05, -1px 1px 0 #FFCB05, 1px 1px 0 #FFCB05;">EECS 482 – Operating Systems</span>
-</p>
+[← Back to Home](../index.html)
+
+# Multithreaded File Server
+[View Code on GitHub](https://github.com/will51mps0n/Networked-Fs-Cpp)
 
 ## Overview
 
@@ -44,12 +44,6 @@ Wrote 30+ edge case tests validating:
 - Directory shrinkage after deletion
 - Reuse of freed blocks
 - Proper lock acquisition and release
-
-## Access
-
-Message me for access to view the implementation.
-
-[Request Access to Code](/adwisi@umich.edu)
 
 [← Back to Home](../index.html)
 ---

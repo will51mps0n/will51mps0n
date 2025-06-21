@@ -58,10 +58,6 @@ Wrote 25+ custom test cases that validated:
 
 ---
 
-## Access
-Message me for access to this repo due to the EECS 482 Umich Honor Code :c
-[View Code on GitHub](https://github.com/eecs482/adwisi.ecomini.skis.2)  
-
 
 <p align="center">
   <a href="mailto:adwisi@umich.edu" style="font-size: 20px;">Request Access to Code</a>

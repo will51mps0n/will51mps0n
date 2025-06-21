@@ -1,13 +1,13 @@
 ---
 layout: default
-title: LC-2K Cache Simulator
-github_url: https://github.com/will51mps0n/Cache
+title: Cache Simulator
+github_url: https://github.com/will51mps0n/Cache-Simulator
 ---
 
 [← Back to Home](../index.html)
 
-# LC-2K Cache Simulator  
-[View Code on GitHub](https://github.com/will51mps0n/Cache)
+# Cache Simulator  
+[View Code on GitHub](https://github.com/will51mps0n/Cache-Simulator)
 
 ---
 
