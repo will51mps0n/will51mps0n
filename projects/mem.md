@@ -5,10 +5,9 @@ title: Memory Manager and Pager
 
 [← Back to Home](../index.html)
 
-## EECS 482 Memory Manager: Virtual Memory Pager
-**March 2025**
+## Memory Manager: Virtual Memory Pager
 
-This project was the culmination of Michigan’s advanced Operating Systems course, where I built a complete **memory pager** to manage virtual memory for multiple processes. The system mimicked an OS kernel module, complete with simulated MMU, swap space, file mapping, page tables, and physical memory.
+This is a complete **memory pager** to manage virtual memory for multiple processes. The system mimicked an OS kernel module, complete with simulated MMU, swap space, file mapping, page tables, and physical memory.
 
 ---
 
