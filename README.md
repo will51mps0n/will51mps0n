@@ -1,4 +1,4 @@
-# Hello — I'm Adam Simpson
+# Hi! I'm Adam Simpson
 
 I'm a C++ and systems programming enthusiast who recently graduated from Computer Science at the University of Michigan (Class of 2025). My work spans:
 
