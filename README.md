@@ -14,7 +14,18 @@ I'm currently most interested in roles and projects in:
 - **Embedded & Real-time Systems**
 
 ---
+### Tech Stack
 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+
+---
+
+### GitHub Stats
+
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=will51mps0n&show_icons=true&theme=default)
 ## Featured Projects
 
 Here are some of the most technically representative projects on my GitHub:
