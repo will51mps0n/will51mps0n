@@ -7,7 +7,7 @@ I'm a C++ and systems programming enthusiast who recently graduated from Compute
 - Machine learning: data pipelines, PyTorch models, search algorithms
 - Full-stack projects: end-to-end MVPs, backend integrations
 
-I'm currently interested in roles and projects in:
+I'm currently most interested in roles and projects in:
 - **Systems Software**
 - **Kernel / OS Development**
 - **Infrastructure Engineering**
@@ -30,10 +30,10 @@ Here are some of the most technically representative projects on my GitHub:
 ## Let's Connect
 
 - [Personal Website](https://will51mps0n.github.io/Adam-Simpson-Portfolio/)  
-- Email: `adwisi@umich.edu`  
 - [LinkedIn](https://linkedin.com/in/adam-simpson)
+- Email: `adwisi@umich.edu`  
 
 ---
 
-> This profile highlights the most technical and recruiter-relevant work in systems programming and applied machine learning.  
-> For my full portfolio and design showcase, visit the personal site above.
+> This profile briefly highlights some of my most technical work.  
+> For my full portfolio, project descriptions, and design showcase, visit the personal site above.
