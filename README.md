@@ -19,11 +19,22 @@ I'm currently most interested in roles and projects in:
 
 Here are some of the most technically representative projects on my GitHub:
 
-- [`Networked-Fs-Cpp`](https://github.com/will51mps0n/Networked-Fs-Cpp): Multithreaded file server in C++ using TCP sockets, custom directory traversal, locking, and disk I/O
-- [`Concurrency-Lib`](https://github.com/will51mps0n/Concurrency-Lib): Cooperative threading library with mutexes and condition variables (ucontext.h)
-- [`MemoryManager-VM-OSPager`](https://github.com/will51mps0n/MemoryManager-VM-OSPager): Virtual memory pager with copy-on-write, file-backed memory, and clock-based eviction
-- [`Assembler-and-Simulator`](https://github.com/will51mps0n/Assembler-and-Simulator): ISA simulator in C with full pipeline and assembler support
-- [`Image-CNN`](https://github.com/will51mps0n/Image-CNN): CIFAR-10 classifier using PyTorch CNN and grid search
+### Systems Projects
+
+- [`Networked-Fs-Cpp`](https://github.com/will51mps0n/Networked-Fs-Cpp): Multithreaded file server in C++ using TCP sockets, safe directory traversal, concurrency-safe disk I/O, and block management.
+- [`Concurrency-Lib`](https://github.com/will51mps0n/Concurrency-Lib): Cooperative threading library in C++ using `ucontext.h`, implementing thread creation, joining, yielding, mutexes, and condition variables.
+- [`MemoryManager-VM-OSPager`](https://github.com/will51mps0n/MemoryManager-VM-OSPager): Virtual memory pager with swap-backed and file-backed memory, copy-on-write, clock-based page eviction, and per-process page tables.
+
+### AI Projects
+
+- [`Image-CNN`](https://github.com/will51mps0n/Image-CNN): CIFAR-10 classifier built in PyTorch. Trains and compares CNNs and fully connected models, with grid search and prediction visualization.
+- [`Maze-Solver-AI`](https://github.com/will51mps0n/Maze-Solver-AI): AI agent using BFS, DFS, UCS, and A* to solve grid-based mazes with obstacles, costs, and visual path tracing.
+- [`Othello-AG0`](https://github.com/will51mps0n/Othello-AG0): Reinforcement learning agent for Othello using Monte Carlo Tree Search and a self-play-trained neural network, inspired by AlphaZero.
+
+### Data Science & ML Projects
+
+- [`Power-Outage-Analysis`](https://github.com/will51mps0n/Power-Outage-Analysis): Full pipeline for modeling power outage costs using EDA, feature engineering, and regression with Scikit-learn and Plotly.
+- [`Stock-Prediction-Pipeline`](https://github.com/will51mps0n/Stock-Prediction-Pipeline): Time series modeling using financial indicators, web-scraped data, and ML models including Random Forest, Linear Regression, and LSTM.
 
 ---
 
