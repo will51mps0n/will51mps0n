@@ -1,5 +1,10 @@
 # Hi! I'm Adam Simpson
 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+
 I'm a C++ and systems programming enthusiast who recently graduated from Computer Science at the University of Michigan (Class of 2025). My work spans:
 
 - Operating systems: paging, file systems, threading libraries
@@ -12,14 +17,6 @@ I'm currently most interested in roles and projects in:
 - **Kernel / OS Development**
 - **Infrastructure Engineering**
 - **Embedded & Real-time Systems**
-
----
-### Tech Stack
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 
 ---
 
