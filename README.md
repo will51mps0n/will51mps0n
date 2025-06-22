@@ -53,7 +53,7 @@ Here are some of the most technically representative projects on my GitHub:
 ## Let's Connect
 
 - [Personal Website](https://will51mps0n.github.io/Adam-Simpson-Portfolio/)  
-- [LinkedIn](https://linkedin.com/in/adam-simpson)
+- [LinkedIn](https://www.linkedin.com/in/adam-simpson-b6a3201a7/)
 
 This profile highlights some of my most technically representative work.  
 For full project breakdowns and design showcases, visit my personal site above.
