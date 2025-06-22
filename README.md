@@ -36,15 +36,20 @@ Here are some of the most technically representative projects on my GitHub:
 - [`Power-Outage-Analysis`](https://github.com/will51mps0n/Power-Outage-Analysis): Full pipeline for modeling power outage costs using EDA, feature engineering, and regression with Scikit-learn and Plotly.
 - [`Stock-Prediction-Pipeline`](https://github.com/will51mps0n/Stock-Prediction-Pipeline): Time series modeling using financial indicators, web-scraped data, and ML models including Random Forest, Linear Regression, and LSTM.
 
+### App Store Project
+
+- [**WaitFast (iOS App)**](https://apps.apple.com/us/app/waitfast/id6744225739): Crowd-powered restaurant wait time tracker with location filtering, historical data, and submission rewards. Built with a Flask + AWS backend and secure mobile integration.  
+
 ---
 
 ## Let's Connect
 
 - [Personal Website](https://will51mps0n.github.io/Adam-Simpson-Portfolio/)  
 - [LinkedIn](https://linkedin.com/in/adam-simpson)
-- Email: `adwisi@umich.edu`  
+- Email: `adwisi@umich.edu`
 
----
+This profile highlights some of my most technically representative work.  
+For full project breakdowns and design showcases, visit my personal site above.
 
-> This profile briefly highlights some of my most technical work.  
-> For my full portfolio, project descriptions, and design showcase, visit the personal site above.
+If you're curious about real-world MVPs and App Store deployment, check out **WaitFast**,   my iOS app for live restaurant wait times.  
+Want to see the code or technical design? [Contact me](mailto:adwisi@umich.edu).
