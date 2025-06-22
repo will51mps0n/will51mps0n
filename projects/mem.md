@@ -6,8 +6,9 @@ title: Memory Manager and Pager
 [← Back to Home](../index.html)
 
 ## Memory Manager: Virtual Memory Pager
+[View Code on GitHub](https://github.com/will51mps0n/MemoryManager-VM-OSPager)
 
-This is a complete **memory pager** to manage virtual memory for multiple processes. The system mimicked an OS kernel module, complete with simulated MMU, swap space, file mapping, page tables, and physical memory.
+This is a complete **memory pager** to manage virtual memory for multiple processes. The system mimicked an OS kernel module, complete with simulated MMU, swap space, file mapping, page tables, and physical memory. This was created a apart of my upper level operating systems course and has since been optimized.
 
 ---
 
