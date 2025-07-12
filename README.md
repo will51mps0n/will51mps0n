@@ -1,22 +1,20 @@
 # Hi! I'm Adam Simpson
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 
-I'm a C++ and systems programming enthusiast who recently graduated from Computer Science at the University of Michigan (Class of 2025). My work spans:
+I'm a software engineer who recently graduated from the University of Michigan with a B.S. in Computer Science (Class of 2025). My work bridges real-world machine learning applications with deep technical fluency in systems and infrastructure.
 
-- Operating systems: paging, file systems, threading libraries
-- Systems-level C++: concurrency, synchronization, TCP servers
-- Machine learning: data pipelines, PyTorch models, search algorithms
-- Full-stack projects: end-to-end MVPs, backend integrations
+- **AI/ML Projects:** Reinforcement learning, PyTorch CNNs, LSTM and tree-based models for forecasting, AlphaZero-style game agents
+- **Data Science:** Feature engineering, EDA, regression/classification pipelines, time series modeling
+- **Full-stack Tools:** Flask APIs, SQL, AWS integrations, iOS development (App Store deployed)
+- **Systems Engineering:** C++ memory managers, threading libraries, file servers, cache simulators
 
-I'm currently most interested in roles and projects in:
-- **Systems Software**
-- **Kernel / OS Development**
-- **Infrastructure Engineering**
-- **Embedded & Real-time Systems**
+I'm currently seeking roles where I can build intelligent systems—from modeling to deployment—and work with teams solving meaningful real-world problems.
+
 
 ---
 
@@ -25,35 +23,34 @@ I'm currently most interested in roles and projects in:
 ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=will51mps0n&show_icons=true&theme=default)
 ## Featured Projects
 
-Here are some of the most technically representative projects on my GitHub:
+### AI & ML Projects
 
-### Systems Projects
+- [`Othello-AG0`](https://github.com/will51mps0n/Othello-AG0): Reinforcement learning agent for Othello using Monte Carlo Tree Search and a deep neural network trained via self-play, inspired by AlphaZero.
+- [`Image-CNN`](https://github.com/will51mps0n/Image-CNN): PyTorch-based CIFAR-10 classifier comparing fully connected networks and CNNs. Includes hyperparameter tuning and visualizations.
+- [`Maze-Solver-AI`](https://github.com/will51mps0n/Maze-Solver-AI): Intelligent agent solving grid mazes using BFS, DFS, UCS, and A* with pathfinding visualizations in Matplotlib.
 
-- [`Networked-Fs-Cpp`](https://github.com/will51mps0n/Networked-Fs-Cpp): Multithreaded file server in C++ using TCP sockets, safe directory traversal, concurrency-safe disk I/O, and block management.
-- [`Concurrency-Lib`](https://github.com/will51mps0n/Concurrency-Lib): Cooperative threading library in C++ using `ucontext.h`, implementing thread creation, joining, yielding, mutexes, and condition variables.
-- [`MemoryManager-VM-OSPager`](https://github.com/will51mps0n/MemoryManager-VM-OSPager): Virtual memory pager with swap-backed and file-backed memory, copy-on-write, clock-based page eviction, and per-process page tables.
+### Data Science & Forecasting
 
-### AI Projects
-
-- [`Image-CNN`](https://github.com/will51mps0n/Image-CNN): CIFAR-10 classifier built in PyTorch. Trains and compares CNNs and fully connected models, with grid search and prediction visualization.
-- [`Maze-Solver-AI`](https://github.com/will51mps0n/Maze-Solver-AI): AI agent using BFS, DFS, UCS, and A* to solve grid-based mazes with obstacles, costs, and visual path tracing.
-- [`Othello-AG0`](https://github.com/will51mps0n/Othello-AG0): Reinforcement learning agent for Othello using Monte Carlo Tree Search and a self-play-trained neural network, inspired by AlphaZero.
-
-### Data Science & ML Projects
-
-- [`Power-Outage-Analysis`](https://github.com/will51mps0n/Power-Outage-Analysis): Full pipeline for modeling power outage costs using EDA, feature engineering, and regression with Scikit-learn and Plotly.
-- [`Stock-Prediction-Pipeline`](https://github.com/will51mps0n/Stock-Prediction-Pipeline): Time series modeling using financial indicators, web-scraped data, and ML models including Random Forest, Linear Regression, and LSTM.
+- [`Power-Outage-Analysis`](https://github.com/will51mps0n/Power-Outage-Analysis): Full ML pipeline for predicting power outage costs using Random Forests and engineered climate/economic features. Includes EDA and cost modeling.
+- [`Stock-Prediction-Pipeline`](https://github.com/will51mps0n/Stock-Prediction-Pipeline): Time series forecasting pipeline using financial indicators and models like LSTM, Linear Regression, and Random Forest.
 
 ### App Store Project
 
-- [**WaitFast (iOS App)**](https://apps.apple.com/us/app/waitfast/id6744225739): Crowd-powered restaurant wait time tracker with location filtering, historical data, and submission rewards. Built with a Flask + AWS backend and secure mobile integration.  
+- [**WaitFast (iOS App)**](https://apps.apple.com/us/app/waitfast/id6744225739): Real-time wait time tracker for restaurants and bars. Built with Swift frontend, Flask backend, AWS hosting, SQL database, and secure API integrations.
+
+### Systems Projects
+
+- [`Networked-Fs-Cpp`](https://github.com/will51mps0n/Networked-Fs-Cpp): C++ file server using Boost threads, TCP sockets, concurrency-safe I/O, and block-based file operations.
+- [`Concurrency-Lib`](https://github.com/will51mps0n/Concurrency-Lib): Cooperative threading library using `ucontext.h` in C++. Implements thread scheduling, synchronization primitives, and voluntary context switches.
+- [`MemoryManager-VM-OSPager`](https://github.com/will51mps0n/MemoryManager-VM-OSPager): Virtual memory pager for a simulated OS kernel. Supports swap/file-backed memory, page tables, and copy-on-write with a clock eviction policy.
 
 ---
 
 ## Let's Connect
 
 - [Personal Website](https://will51mps0n.github.io/Adam-Simpson-Portfolio/)  
-- [LinkedIn](https://www.linkedin.com/in/adam-simpson-b6a3201a7/)
+- [LinkedIn](https://www.linkedin.com/in/adam-simpson-b6a3201a7/)  
+- [Email Me](mailto:adwisi@umich.edu)
 
 This profile highlights some of my most technically representative work.  
 For full project breakdowns and design showcases, visit my personal site above.
