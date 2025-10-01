@@ -48,7 +48,7 @@ I'm currently seeking roles where I can build intelligent systems—from modelin
 
 ## Let's Connect
 
-- [Personal Website](https://will51mps0n.github.io/Adam-Simpson-Portfolio/)  
+- [Personal Website](https://adamwsimpson.com/)  
 - [LinkedIn](https://www.linkedin.com/in/adam-simpson-b6a3201a7/)  
 - [Email Me](mailto:adwisi@umich.edu)
 
